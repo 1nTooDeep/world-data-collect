@@ -1,0 +1,149 @@
+# 世界各国主要股票指数（国家级，按洲/国归属）
+# 来源: https://en.wikipedia.org/wiki/List_of_stock_market_indices (National 区段)
+# 采集日期: 2026-11-09  | abbreviation 尽力提取，空=页面未给简称
+country,continent,index_name,abbreviation,note
+Botswana,Africa,BSE DCI,,Botswana Stock Exchange Domestic Company Index
+Egypt,Africa,EGX 30 Index,,
+Ghana,Africa,GSE Composite Index,,
+Morocco,Africa,MASI index,Moroccan All Shares Index,Moroccan All Shares Index
+Morocco,Africa,MADEX index,,Moroccan Most Active shares Index
+South Africa,Africa,FTSE/JSE Top 40 Index,,
+South Africa,Africa,FTSE/JSE All Share Index,,
+Tanzania,Africa,Tanzania All Share Index,,
+Zimbabwe,Africa,Zimbabwe Industrial Index,,
+Argentina,Americas,MERVAL,,12 Companies
+Brazil,Americas,Índice Bovespa,,Bovespa Index
+Canada,Americas,S&P/TSX 60,,
+Canada,Americas,S&P/TSX Composite Index,,
+Canada,Americas,S&P/TSX Venture Composite Index,,
+Chile,Americas,IPSA,,
+Colombia,Americas,Indice General de la Bolsa de Valores de Colombia,,
+Colombia,Americas,COLCAP,,
+Mexico,Americas,Indice de Precios y Cotizaciones,IPC,"IPC) (""Bolsa index"""
+Peru,Americas,S&P/BVL Peru General Index,,
+United States,Americas,Value Line Composite Index,,
+Venezuela,Americas,Índice Bursátil de Capitalización,IBC,IBC
+China,Asia,SSE Composite Index,,上证综指
+China,Asia,SZSE Component Index,,深证成指
+China,Asia,CSI 300 Index,,沪深300指数
+China,Asia,SSE 50 Index,,上证50指数
+China,Asia,SSE 180 Index,,上证180指数
+China,Asia,SZSE 100 Index,,深证100指数
+China,Asia,SZSE 200 Index,,深证200指数
+China,Asia,SZSE 300 Index,,深证300指数
+China,Asia,CSI 100 Index,,中证100指数
+Hong Kong,Asia,Hang Seng Index,,
+Hong Kong,Asia,Hang Seng Composite Index Series,,
+Hong Kong,Asia,MSCI Hong Kong Index,,
+India,Asia,BSE SENSEX,,
+India,Asia,NIFTY 50,,
+India,Asia,NIFTY Next 50,,
+India,Asia,NIFTY 500,,
+India,Asia,GIFT Nifty,,
+Indonesia,Asia,IDX Composite,,
+Indonesia,Asia,LQ45,,
+Indonesia,Asia,Jakarta Islamic Index,JII,JII
+Israel,Asia,TA-125 Index,Tel Aviv 125,Tel Aviv 125
+Israel,Asia,TA-35 Index,,"TASE's flagship index, listing TASE's 35 largest stocks by market cap, previously called the Ma'of.<ref>{{Cite web |url="
+Israel,Asia,TA-90,,Stocks on TA-125 which are not included in TA-35
+Japan,Asia,Nikkei 225,,
+Japan,Asia,TOPIX,,
+Jordan,Asia,ASE Market Capitalization Weighted Index,,
+Malaysia,Asia,FTSE Bursa Malaysia Index,,
+Malaysia,Asia,FTSE Bursa Malaysia KLCI,,
+Pakistan,Asia,KSE 100 Index,,
+Pakistan,Asia,KSE 30 Index,,
+Pakistan,Asia,KMI 30 Index,,
+Philippines,Asia,PSE Composite Index,PSEi,PSEi
+Philippines,Asia,PSE All Shares Index,,
+Philippines,Asia,PSE Financials Index,,
+Philippines,Asia,PSE Mining and Oil Index,,
+Saudi Arabia,Asia,Tadawul All-Share Index,,
+Singapore,Asia,Straits Times Index,STI,STI
+South Korea,Asia,KOSPI,,
+Sri Lanka,Asia,All Share Price Index,ASPI,ASPI) – Started on 2 January 1985 on full market cap weight basis but changed to float adjusted market cap weight basis
+Sri Lanka,Asia,Milanka Price Index,MPI,"MPI) – Started in 1999 Discontinuted w.e.f January 1, 2013."
+Sri Lanka,Asia,S&P Sri Lanka 20 Index,,"Started on 27 June 2012, this replaced Milanka Index"
+Sri Lanka,Asia,Colombo Stock Exchange Sector indices,CSE Sectors,"CSE Sectors) – Discontinuted with effect from January 1, 2016."
+Sri Lanka,Asia,S&P/CSE GICS Sector Indices,GICS Sectors,GICS Sectors).
+Sri Lanka,Asia,S&P/CSE GICS Industry Group Indices,GICS Industry Groups,GICS Industry Groups).
+Taiwan,Asia,TAIEX,,
+Thailand,Asia,SET Index,,
+Thailand,Asia,SET50 Index and SET100 Index,,
+Turkey,Asia,BIST 100,,
+Vietnam,Asia,CBV Index,,
+Vietnam,Asia,S&P Vietnam 10 Index,,
+Vietnam,Asia,VN-Index,,
+Austria,Europe,ATX,,
+Belgium,Europe,BEL 20,,
+Bosnia and Herzegovina,Europe,BIRS,,main market index in Republic of Srpska
+Bosnia and Herzegovina,Europe,FIRS,,investment funds index in Republic of Srpska
+Bosnia and Herzegovina,Europe,ERS10,,power utility index in Republic of Srpska
+Bulgaria,Europe,SOFIX,,
+Croatia,Europe,CROBEX,,
+Czechia,Europe,PX Index,,
+Denmark,Europe,OMX Copenhagen 25,,
+Finland,Europe,OMX Helsinki 25,OMXH25,OMXH25
+France,Europe,CAC 40,,
+France,Europe,CAC Next 20,,
+France,Europe,CAC Mid 60,,
+France,Europe,CAC Small,,
+France,Europe,SBF 120,,
+France,Europe,CAC All-Tradable,,
+Germany,Europe,DAX,,40 companies weighted by the market cap
+Germany,Europe,MDAX,,Mid cap
+Germany,Europe,SDAX,,Small cap
+Germany,Europe,TecDAX,,
+Greece,Europe,FTSE/Athex Large Cap,,
+Hungary,Europe,BUX,,Large cap
+Hungary,Europe,BUMIX,,Mid cap
+Hungary,Europe,Central European Blue Chip Index,,Regional large cap
+Iceland,Europe,OMX Iceland 15,,discontinued
+Iceland,Europe,OMX Iceland 8,,
+Ireland,Europe,ISEQ 20,,
+Italy,Europe,FTSE MIB,,
+Italy,Europe,FTSE Italia Mid Cap,,
+Lithuania,Europe,Nasdaq Vilnius,OMXVGI,OMXVGI
+Luxembourg,Europe,LuxX Index,,Luxembourg Stock Exchange
+Netherlands,Europe,AEX index,,
+Netherlands,Europe,AMX index,,Mid cap
+Netherlands,Europe,AScX index,,Small cap
+Norway,Europe,OBX Index,,
+Poland,Europe,WIG,,
+Poland,Europe,WIG20,,
+Poland,Europe,WIG30,,
+Portugal,Europe,PSI-20,,
+Romania,Europe,BET,,
+Romania,Europe,BET-TR,,
+Romania,Europe,BET-XT,,
+Romania,Europe,ROTX,,
+Romania,Europe,MSCI Romania,,
+Russia,Europe,RTS Index,RTSI,RTSI
+Serbia,Europe,BELEX15,,
+Serbia,Europe,BELEXline,,
+Spain,Europe,IBEX 35,,
+Spain,Europe,Madrid Stock Exchange General Index,,
+Sweden,Europe,OMX Stockholm 30,OMXS30,OMXS30
+Sweden,Europe,OMX Stockholm PI,OMXSPI,OMXSPI
+Switzerland,Europe,SMI MID,,
+Switzerland,Europe,SMI Expanded,,
+Switzerland,Europe,Swiss Leader Index,SLI,SLI
+Switzerland,Europe,Swiss Market Index,SMI,SMI
+Switzerland,Europe,Swiss Performance Index,SPI,SPI
+Ukraine,Europe,PFTS index,,
+United Kingdom,Europe,FT 30,,
+United Kingdom,Europe,FTSE 100 Index,,
+United Kingdom,Europe,FTSE MID 250 Index,,
+United Kingdom,Europe,FTSE 350 Index,,
+United Kingdom,Europe,FTSE AIM All-Share Index,,
+United Kingdom,Europe,FTSE AIM UK 50 Index,,
+United Kingdom,Europe,FTSE All-Share Index,,
+United Kingdom,Europe,FTSE Fledgling Index,,
+United Kingdom,Europe,FTSE SmallCap Index,,
+United Kingdom,Europe,FTSE techMARK 100,,
+Australia,Oceania,All Ordinaries,,<ref>{{Cite web|url=https://www.asx.com.au/asx/statistics/indexInfo.do|title = Real-time indices prices}}</ref>
+Australia,Oceania,S&P/ASX 20,,
+Australia,Oceania,S&P/ASX 50,,
+Australia,Oceania,S&P/ASX 200,,
+Australia,Oceania,S&P/ASX 300,,
+New Zealand,Oceania,S&P/NZX 50,,

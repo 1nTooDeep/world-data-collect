@@ -1,0 +1,86 @@
+# 世界最大城市（UN 2025 估计 + 行政市区/建成区/都市圈三口径）
+# 来源: https://en.wikipedia.org/wiki/List_of_largest_cities (UN WUP 2025 + Demographia + 官方普查)
+# 采集日期: 2026-11-09  | un_pop_2025=UN城市集聚区估计; city_proper=行政市区(def列为其定义); urban=连续建成区(Demographia); metro=都市圈; 空白=来源缺
+city,country,un_pop_2025,city_proper_def,city_proper_pop,city_proper_area_km2,urban_pop,urban_area_km2,metro_pop,metro_area_km2
+Jakarta,Indonesia,41913860,Special region,"10,154,134",664,"33,756,000","3,546","33,430,285","7,063"
+Dhaka,Bangladesh,36585479,Capital city,"10,295,407",338,"19,134,000",619,"36,585,479","2,570"
+Tokyo,Japan,33412512,Metropolis prefecture,"13,515,271","2,191","37,785,000","8,231","37,274,000","13,452"
+Delhi,India,30222405,National Capital Territory,"16,753,235","1,484","32,226,000","2,344","29,000,000","3,483"
+Shanghai,China,29558908,Municipality,"24,870,895","6,341","24,073,000","4,333",,
+Guangzhou,China,27563372,City (sub-provincial),"18,676,605","7,434","26,940,000","4,535",,
+Cairo,Egypt,25566102,Urban governorate,"10,044,894","3,085","20,296,000","2,010",,
+Manila,Philippines,24735305,National Capital Region,"15,531,900",636,"24,922,000","1,911","30,785,176","7,967"
+Kolkata,India,22549738,Municipal corporation,4496694,206,"21,747,000","1,352","15,333,000","1,887"
+Seoul,South Korea,22490482,Special city,"10,013,781",605,"23,016,000","2,769","25,514,000","11,704"
+Karachi,Pakistan,21422590,Metropolitan city,"15,738,000",591,"20,249,000","1,124","20,249,000","1,124"
+Mumbai,India,20203056,Municipal corporation,"12,478,447",603,"24,973,000",976,"23,598,000","6,328"
+São Paulo,Brazil,18949790,Municipality,"12,252,023","1,521","23,086,000","3,649","21,734,682","7,947"
+Bangkok,Thailand,18180280,Special administrative area,"8,305,218","1,569","18,007,000","3,199","16,255,900","7,762"
+Mexico City,Mexico,17734212,City-state,"9,209,944","1,485","21,804,000","2,530","21,804,515","7,866"
+Beijing,China,17013303,Municipality,"21,893,095","16,411","18,522,000","4,284",,
+Lahore,Pakistan,15156430,Metropolitan city,"13,004,135","1,772","12,306,000",945,"13,004,135","1,772"
+Istanbul,Turkey,15014763,Metropolitan municipality,"15,519,267","5,196","14,441,000","1,471","15,701,602","5,343"
+Moscow,Russia,14524753,Federal city,"13,200,000","2,511","17,332,000","6,154",20004462,
+Ho Chi Minh City,Vietnam,14052713,Municipality,"7,431,000","2,061","15,136,000","2,165","21,281,639","30,595"
+Buenos Aires,Argentina,14017736,Autonomous city,"3,054,300",203,"16,710,000","3,437","16,710,000","3,437"
+New York City,United States,13920148,City,"8,804,190",778,"21,509,000","13,318",23143097,
+Shenzhen,China,13878396,City (sub-provincial),"17,494,398","2,050","17,619,000","1,803",,
+Bengaluru,India,13187098,Municipal corporation,"8,443,675",709,"8,443,675",741,"10,456,000","8,005"
+Osaka,Japan,12964145,Designated city,"2,725,006",225,"15,126,000","3,020","19,303,000","13,228"
+Lagos,Nigeria,12791699,Metropolitan city,,,,,,
+Los Angeles,United States,12740420,City,"3,990,456","1,214","15,204,000","6,351",18372485,
+Chennai,India,11153205,Municipal corporation,"6,727,000",426,"12,395,000","1,085","11,564,000","2,280"
+Kinshasa,DR Congo,10943641,City-province,"17,071,000","9,965","12,836,000",474,"17,778,500","9,965"
+Bogotá,Colombia,10624315,Capital District,"7,963,000","1,587","10,085,000",562,"12,545,272","5,934"
+Lima,Peru,10580241,Metropolitan municipality,"8,894,000","2,672","10,320,000",891,"9,569,468","2,819"
+London,United Kingdom,10416420,"Administrative area{{efn|Greater London is defined by the London Government Act 1963 as an ""administrative area"", {{multiref|","8,825,001","1,572","11,262,000","1,738",14372596,
+Rio de Janeiro,Brazil,9500336,Municipality,"6,520,000","1,221","12,592,000","2,020","12,644,321","5,327"
+Paris,France,9381921,Commune,"2,148,271",105,"11,060,000","2,853",,
+Hyderabad,India,9190795,Municipal corporation,"6,993,262",650,"10,494,000","1,404","10,494,000","7,257"
+Luanda,Angola,9051000,Municipality,"2,165,867",116,"9,051,000","1,005","11,370,000","1,876"
+Bandung,Indonesia,8909104,City,,,"7,203,000",487,,
+Kuala Lumpur,Malaysia,8443731,Capital city (Federal territory),"1,768,000",243,"8,911,000","2,163","7,200,000","2,793"
+Dar es Salaam,Tanzania,7795114,style=text-align:left |City,"5,383,728","1,393","7,962,000",961,"10,599,999","1,599"
+Suzhou,China,7731101,Prefecture-level city,,,"6,031,000","1,386","12,748,252","12,493"
+Ahmedabad,India,7632408,Municipal corporation,"5,570,585",464,"8,009,000",404,6300000,
+Hangzhou,China,7500208,City (sub-provincial),"11,936,010","16,596","9,523,000","1,344","13,035,329","16,821"
+Wuhan,China,7363548,City (sub-provincial),"12,447,718","8,494","12,447,718","1,722","13,739,000","8,494"
+Tianjin,China,7285342,Municipality,"13,866,009","11,920","10,368,000","2,813",,
+Alexandria,Egypt,7266957,Urban governorate,5441866,,2300,,2366,
+Nagoya,Japan,7146160,Designated city,"2,320,361",326,"9,197,000","3,704","9,363,000","7,271"
+Johannesburg,South Africa,7077175,Metropolitan municipality,4803262,,1643,,2924,
+Chongqing,China,7071073,Municipality,"32,054,159","82,403 {{cite web",2016012836292655,,2015301655,
+Riyadh,Saudi Arabia,6916417,Municipality,"6,694,000","1,913","7,237,000","1,673",,
+Surat,India,6908925,Municipal corporation,"4,466,826",327,"6,538,000",238,,
+Surabaya,Indonesia,6843503,City,,,"6,556,000",912,,
+Pune,India,6817951,Municipal corporation,,,"8,231,000",650,"7,276,000","7,256"
+Khartoum,Sudan,6809355,,1410858,,,,,
+Nanjing,China,6800676,City (sub-provincial),"9,314,685","6,582","8,422,000","1,614",,
+Santiago,Chile,6726045,City (commune),"236,453",22,"7,171,000","1,147","7,112,808","15,403"
+Chicago,United States,8864000,City,"2,746,388",589,"9,057,000","7,006",9806184,
+Chengdu,China,8813000,City (sub-provincial),"20,937,757","14,378","20,937,757","1,935","20,937,757","14,378"
+Xi'an,China,7444000,City (sub-provincial),"12,183,280","10,135","12,328,000","1,826","12,328,000","10,762"
+Hong Kong,Hong Kong SAR,7429000,City,"7,298,600","1,104","7,450,000",290,,
+Dongguan,China,7360000,Prefecture-level city,"10,466,625","2,465","10,646,000","1,759",,
+Foshan,China,7236000,Prefecture-level city,"9,498,863","3,848",,,,
+Shenyang,China,6921000,City (sub-provincial),"8,294,000","12,980","7,964,000","1,551","8,294,000","12,980"
+Baghdad,Iraq,6812000,Urban governorate,"8,126,755","5,200","6,183,000",694,"8,141,000","12,869"
+Madrid,Spain,6497000,Municipality,"3,266,126",606,"6,211,000","1,365",6641649,
+Harbin,China,6115000,City (sub-provincial),"10,635,971","53,068","3,830,000",671,"10,009,854","53,068"
+Houston,United States,6115000,City,"2,325,502","1,553","6,500,000","4,931","7,765,149","21,395"
+Dallas,United States,6099000,City,"1,345,047",882,"6,950,000","5,278","9,021,108","22,463"
+Toronto,Canada,6082000,City,"2,731,571",630,"6,771,000","2,344","5,928,040","5,906"
+Miami,United States,6036000,style=text-align:left |City,,,"6,058,000","3,313","6,158,824","15,890"
+Belo Horizonte,Brazil,5972000,style=text-align:left |City,,,"5,328,000","1,287",,
+Singapore,Singapore,5792000,Country,,,"5,983,000",523,,
+Philadelphia,United States,5695000,Consolidated city-county,,,"5,799,000","5,429",7381187,
+Atlanta,United States,5572000,style=text-align:left |City,,,"5,478,000","7,400","6,976,171","21,690"
+Fukuoka,Japan,5551000,Designated city,,,"2,286,000",505,,
+Barcelona,Spain,5494000,Municipality,,,"4,800,000","1,072",5474482,
+Saint Petersburg,Russia,5383000,Federal city,5601911,,1400,,4001,
+Qingdao,China,5381000,City (sub-provincial),10071722,,11229,,897,
+Dalian,China,5300000,City (sub-provincial),7450785,,13742,,542,
+"Washington, D.C.",United States,5207000,Federal district,"702,455",177,"7,631,000","5,501","10,237,545","17,009"
+Yangon,Myanmar,5157000,City,4728524,,,,,
+Jinan,China,5052000,City (sub-provincial),"9,202,432","10,244","4,017,000",932,,
+Guadalajara,Mexico,5023000,Municipality,"1,385,621",151,"5,525,000",816,"5,286,642","3,560"

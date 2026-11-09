@@ -1,0 +1,199 @@
+# 世界各国首都与人口（UN 成员国）
+# 来源: mledoze/countries (https://github.com/mledoze/countries, UN membership/capital/中文译名) + World Bank API SP.POP.TOTL (https://api.worldbank.org/v2/country/indicator/SP.POP.TOTL, 最新年份人口 mrnev=1)
+# 采集日期: 2026-11-08  | 大洲: mledoze region 字段 (region_worldbank 列存 World Bank 口径作交叉核对)
+# 说明: population_year 为 World Bank 各国最新可得年份(多为 2023/2024); capital_en 为 mledoze 数据集首都(多首都以;分隔取首个为官方驻地), capital_worldbank 为世行口径
+name_en,name_zh,official_name_en,cca2,cca3,capital_en,capital_zh,capital_worldbank,region,subregion,region_worldbank,population,population_year
+Afghanistan,阿富汗,Islamic Republic of Afghanistan,AF,AFG,Kabul,,Kabul,Asia,Southern Asia,"Middle East, North Africa, Afghanistan & Pakistan",43844111,2025
+Angola,安哥拉,Republic of Angola,AO,AGO,Luanda,,Luanda,Africa,Middle Africa,Sub-Saharan Africa ,39040039,2025
+Albania,阿尔巴尼亚,Republic of Albania,AL,ALB,Tirana,,Tirane,Europe,Southeast Europe,Europe & Central Asia,2349580,2025
+Andorra,安道尔,Principality of Andorra,AD,AND,Andorra la Vella,,Andorra la Vella,Europe,Southern Europe,Europe & Central Asia,82904,2025
+United Arab Emirates,阿拉伯联合酋长国,United Arab Emirates,AE,ARE,Abu Dhabi,,Abu Dhabi,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",11513149,2025
+Argentina,阿根廷,Argentine Republic,AR,ARG,Buenos Aires,,Buenos Aires,Americas,South America,Latin America & Caribbean ,45851378,2025
+Armenia,亚美尼亚,Republic of Armenia,AM,ARM,Yerevan,,Yerevan,Asia,Western Asia,Europe & Central Asia,3086700,2025
+Antigua and Barbuda,安提瓜和巴布达,Antigua and Barbuda,AG,ATG,Saint John's,,Saint John's,Americas,Caribbean,Latin America & Caribbean ,94209,2025
+Australia,澳大利亚,Commonwealth of Australia,AU,AUS,Canberra,,Canberra,Oceania,Australia and New Zealand,East Asia & Pacific,27614411,2025
+Austria,奥地利,Republic of Austria,AT,AUT,Vienna,,Vienna,Europe,Central Europe,Europe & Central Asia,9208163,2025
+Azerbaijan,阿塞拜疆,Republic of Azerbaijan,AZ,AZE,Baku,,Baku,Asia,Western Asia,Europe & Central Asia,10246996,2025
+Burundi,布隆迪,Republic of Burundi,BI,BDI,Gitega,,Bujumbura,Africa,Eastern Africa,Sub-Saharan Africa ,14390003,2025
+Belgium,比利时,Kingdom of Belgium,BE,BEL,Brussels,,Brussels,Europe,Western Europe,Europe & Central Asia,11941781,2025
+Benin,贝宁,Republic of Benin,BJ,BEN,Porto-Novo,,Porto-Novo,Africa,Western Africa,Sub-Saharan Africa ,14814460,2025
+Burkina Faso,布基纳法索,Burkina Faso,BF,BFA,Ouagadougou,,Ouagadougou,Africa,Western Africa,Sub-Saharan Africa ,24074580,2025
+Bangladesh,孟加拉国,People's Republic of Bangladesh,BD,BGD,Dhaka,,Dhaka,Asia,Southern Asia,South Asia,175686899,2025
+Bulgaria,保加利亚,Republic of Bulgaria,BG,BGR,Sofia,,Sofia,Europe,Southeast Europe,Europe & Central Asia,6433302,2025
+Bahrain,巴林,Kingdom of Bahrain,BH,BHR,Manama,,Manama,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",1600366,2025
+Bahamas,巴哈马,Commonwealth of the Bahamas,BS,BHS,Nassau,,Nassau,Americas,Caribbean,Latin America & Caribbean ,403033,2025
+Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,BA,BIH,Sarajevo,,Sarajevo,Europe,Southeast Europe,Europe & Central Asia,3140095,2025
+Belarus,白俄罗斯,Republic of Belarus,BY,BLR,Minsk,,Minsk,Europe,Eastern Europe,Europe & Central Asia,9085991,2025
+Belize,伯利兹,Belize,BZ,BLZ,Belmopan,,Belmopan,Americas,Central America,Latin America & Caribbean ,422924,2025
+Bolivia,玻利维亚,Plurinational State of Bolivia,BO,BOL,Sucre,,La Paz,Americas,South America,Latin America & Caribbean ,12581843,2025
+Brazil,巴西,Federative Republic of Brazil,BR,BRA,Brasília,,Brasilia,Americas,South America,Latin America & Caribbean ,212812405,2025
+Barbados,巴巴多斯,Barbados,BB,BRB,Bridgetown,,Bridgetown,Americas,Caribbean,Latin America & Caribbean ,282623,2025
+Brunei,文莱,"Nation of Brunei, Abode of Peace",BN,BRN,Bandar Seri Begawan,,Bandar Seri Begawan,Asia,South-Eastern Asia,East Asia & Pacific,466330,2025
+Bhutan,不丹,Kingdom of Bhutan,BT,BTN,Thimphu,,Thimphu,Asia,Southern Asia,South Asia,796682,2025
+Botswana,博茨瓦纳,Republic of Botswana,BW,BWA,Gaborone,,Gaborone,Africa,Southern Africa,Sub-Saharan Africa ,2562122,2025
+Central African Republic,中非共和国,Central African Republic,CF,CAF,Bangui,,Bangui,Africa,Middle Africa,Sub-Saharan Africa ,5513282,2025
+Canada,加拿大,Canada,CA,CAN,Ottawa,,Ottawa,Americas,North America,North America,41651653,2025
+Switzerland,瑞士,Swiss Confederation,CH,CHE,Bern,,Bern,Europe,Western Europe,Europe & Central Asia,9092436,2025
+Chile,智利,Republic of Chile,CL,CHL,Santiago,,Santiago,Americas,South America,Latin America & Caribbean ,19859921,2025
+China,中国,People's Republic of China,CN,CHN,Beijing,,Beijing,Asia,Eastern Asia,East Asia & Pacific,1406585000,2025
+Ivory Coast,科特迪瓦,Republic of Côte d'Ivoire,CI,CIV,Yamoussoukro,,Yamoussoukro,Africa,Western Africa,Sub-Saharan Africa ,32711547,2025
+Cameroon,喀麦隆,Republic of Cameroon,CM,CMR,Yaoundé,,Yaounde,Africa,Middle Africa,Sub-Saharan Africa ,29879337,2025
+DR Congo,民主刚果,Democratic Republic of the Congo,CD,COD,Kinshasa,,Kinshasa,Africa,Middle Africa,Sub-Saharan Africa ,112832473,2025
+Congo,刚果,Republic of the Congo,CG,COG,Brazzaville,,Brazzaville,Africa,Middle Africa,Sub-Saharan Africa ,6484437,2025
+Colombia,哥伦比亚,Republic of Colombia,CO,COL,Bogotá,,Bogota,Americas,South America,Latin America & Caribbean ,53425635,2025
+Comoros,科摩罗,Union of the Comoros,KM,COM,Moroni,,Moroni,Africa,Eastern Africa,Sub-Saharan Africa ,882847,2025
+Cape Verde,佛得角,Republic of Cabo Verde,CV,CPV,Praia,,Praia,Africa,Western Africa,Sub-Saharan Africa ,527326,2025
+Costa Rica,哥斯达黎加,Republic of Costa Rica,CR,CRI,San José,,San Jose,Americas,Central America,Latin America & Caribbean ,5152950,2025
+Cuba,古巴,Republic of Cuba,CU,CUB,Havana,,Havana,Americas,Caribbean,Latin America & Caribbean ,10937203,2025
+Cyprus,塞浦路斯,Republic of Cyprus,CY,CYP,Nicosia,,Nicosia,Europe,Southern Europe,Europe & Central Asia,1370754,2025
+Czechia,捷克,Czech Republic,CZ,CZE,Prague,,Prague,Europe,Central Europe,Europe & Central Asia,10886878,2025
+Germany,德国,Federal Republic of Germany,DE,DEU,Berlin,,Berlin,Europe,Western Europe,Europe & Central Asia,83491249,2025
+Djibouti,吉布提,Republic of Djibouti,DJ,DJI,Djibouti,,Djibouti,Africa,Eastern Africa,"Middle East, North Africa, Afghanistan & Pakistan",1184076,2025
+Dominica,多米尼加,Commonwealth of Dominica,DM,DMA,Roseau,,Roseau,Americas,Caribbean,Latin America & Caribbean ,65871,2025
+Denmark,丹麦,Kingdom of Denmark,DK,DNK,Copenhagen,,Copenhagen,Europe,Northern Europe,Europe & Central Asia,6009169,2025
+Dominican Republic,多明尼加,Dominican Republic,DO,DOM,Santo Domingo,,Santo Domingo,Americas,Caribbean,Latin America & Caribbean ,11520487,2025
+Algeria,阿尔及利亚,People's Democratic Republic of Algeria,DZ,DZA,Algiers,,Algiers,Africa,Northern Africa,"Middle East, North Africa, Afghanistan & Pakistan",47435312,2025
+Ecuador,厄瓜多尔,Republic of Ecuador,EC,ECU,Quito,,Quito,Americas,South America,Latin America & Caribbean ,18289896,2025
+Egypt,埃及,Arab Republic of Egypt,EG,EGY,Cairo,,Cairo,Africa,Northern Africa,"Middle East, North Africa, Afghanistan & Pakistan",118365995,2025
+Eritrea,厄立特里亚,State of Eritrea,ER,ERI,Asmara,,Asmara,Africa,Eastern Africa,Sub-Saharan Africa ,3607003,2025
+Spain,西班牙,Kingdom of Spain,ES,ESP,Madrid,,Madrid,Europe,Southern Europe,Europe & Central Asia,49355143,2025
+Estonia,爱沙尼亚,Republic of Estonia,EE,EST,Tallinn,,Tallinn,Europe,Northern Europe,Europe & Central Asia,1366475,2025
+Ethiopia,埃塞俄比亚,Federal Democratic Republic of Ethiopia,ET,ETH,Addis Ababa,,Addis Ababa,Africa,Eastern Africa,Sub-Saharan Africa ,135472051,2025
+Finland,芬兰,Republic of Finland,FI,FIN,Helsinki,,Helsinki,Europe,Northern Europe,Europe & Central Asia,5646436,2025
+Fiji,斐济,Republic of Fiji,FJ,FJI,Suva,,Suva,Oceania,Melanesia,East Asia & Pacific,933154,2025
+France,法国,French Republic,FR,FRA,Paris,,Paris,Europe,Western Europe,Europe & Central Asia,68720337,2025
+Micronesia,密克罗尼西亚,Federated States of Micronesia,FM,FSM,Palikir,,Palikir,Oceania,Micronesia,East Asia & Pacific,113683,2025
+Gabon,加蓬,Gabonese Republic,GA,GAB,Libreville,,Libreville,Africa,Middle Africa,Sub-Saharan Africa ,2593130,2025
+United Kingdom,英国,United Kingdom of Great Britain and Northern Ireland,GB,GBR,London,,London,Europe,Northern Europe,Europe & Central Asia,69487000,2025
+Georgia,格鲁吉亚,Georgia,GE,GEO,Tbilisi,,Tbilisi,Asia,Western Asia,Europe & Central Asia,3935766,2025
+Ghana,加纳,Republic of Ghana,GH,GHA,Accra,,Accra,Africa,Western Africa,Sub-Saharan Africa ,35064272,2025
+Guinea,几内亚,Republic of Guinea,GN,GIN,Conakry,,Conakry,Africa,Western Africa,Sub-Saharan Africa ,15099727,2025
+Gambia,冈比亚,Republic of the Gambia,GM,GMB,Banjul,,Banjul,Africa,Western Africa,Sub-Saharan Africa ,2822093,2025
+Guinea-Bissau,几内亚比绍,Republic of Guinea-Bissau,GW,GNB,Bissau,,Bissau,Africa,Western Africa,Sub-Saharan Africa ,2249515,2025
+Equatorial Guinea,赤道几内亚,Republic of Equatorial Guinea,GQ,GNQ,Ciudad de la Paz,,Malabo,Africa,Middle Africa,Sub-Saharan Africa ,1938431,2025
+Greece,希腊,Hellenic Republic,GR,GRC,Athens,,Athens,Europe,Southern Europe,Europe & Central Asia,10413962,2025
+Grenada,格林纳达,Grenada,GD,GRD,St. George's,,Saint George's,Americas,Caribbean,Latin America & Caribbean ,117303,2025
+Guatemala,危地马拉,Republic of Guatemala,GT,GTM,Guatemala City,,Guatemala City,Americas,Central America,Latin America & Caribbean ,18687881,2025
+Guyana,圭亚那,Co-operative Republic of Guyana,GY,GUY,Georgetown,,Georgetown,Americas,South America,Latin America & Caribbean ,835986,2025
+Honduras,洪都拉斯,Republic of Honduras,HN,HND,Tegucigalpa,,Tegucigalpa,Americas,Central America,Latin America & Caribbean ,11005850,2025
+Croatia,克罗地亚,Republic of Croatia,HR,HRV,Zagreb,,Zagreb,Europe,Southeast Europe,Europe & Central Asia,3876200,2025
+Haiti,海地,Republic of Haiti,HT,HTI,Port-au-Prince,,Port-au-Prince,Americas,Caribbean,Latin America & Caribbean ,11906095,2025
+Hungary,匈牙利,Hungary,HU,HUN,Budapest,,Budapest,Europe,Central Europe,Europe & Central Asia,9514251,2025
+Indonesia,印度尼西亚,Republic of Indonesia,ID,IDN,Jakarta,,Jakarta,Asia,South-Eastern Asia,East Asia & Pacific,285721236,2025
+India,印度,Republic of India,IN,IND,New Delhi,,New Delhi,Asia,Southern Asia,South Asia,1463865525,2025
+Ireland,爱尔兰,Republic of Ireland,IE,IRL,Dublin,,Dublin,Europe,Northern Europe,Europe & Central Asia,5484367,2025
+Iran,伊朗,Islamic Republic of Iran,IR,IRN,Tehran,,Tehran,Asia,Southern Asia,"Middle East, North Africa, Afghanistan & Pakistan",92417681,2025
+Iraq,伊拉克,Republic of Iraq,IQ,IRQ,Baghdad,,Baghdad,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",47020774,2025
+Iceland,冰岛,Iceland,IS,ISL,Reykjavik,,Reykjavik,Europe,Northern Europe,Europe & Central Asia,392404,2025
+Israel,以色列,State of Israel,IL,ISR,Jerusalem,,,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",10122800,2025
+Italy,意大利,Italian Republic,IT,ITA,Rome,,Rome,Europe,Southern Europe,Europe & Central Asia,58915656,2025
+Jamaica,牙买加,Jamaica,JM,JAM,Kingston,,Kingston,Americas,Caribbean,Latin America & Caribbean ,2837077,2025
+Jordan,约旦,Hashemite Kingdom of Jordan,JO,JOR,Amman,,Amman,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",11520684,2025
+Japan,日本,Japan,JP,JPN,Tokyo,,Tokyo,Asia,Eastern Asia,East Asia & Pacific,123366734,2025
+Kazakhstan,哈萨克斯坦,Republic of Kazakhstan,KZ,KAZ,Astana,,Astana,Asia,Central Asia,Europe & Central Asia,20843754,2025
+Kenya,肯尼亚,Republic of Kenya,KE,KEN,Nairobi,,Nairobi,Africa,Eastern Africa,Sub-Saharan Africa ,57532493,2025
+Kyrgyzstan,吉尔吉斯斯坦,Kyrgyz Republic,KG,KGZ,Bishkek,,Bishkek,Asia,Central Asia,Europe & Central Asia,7343064,2025
+Cambodia,柬埔寨,Kingdom of Cambodia,KH,KHM,Phnom Penh,,Phnom Penh,Asia,South-Eastern Asia,East Asia & Pacific,17847982,2025
+Kiribati,基里巴斯,Independent and Sovereign Republic of Kiribati,KI,KIR,South Tarawa,,Tarawa,Oceania,Micronesia,East Asia & Pacific,136488,2025
+Saint Kitts and Nevis,圣基茨和尼维斯,Federation of Saint Christopher and Nevis,KN,KNA,Basseterre,,Basseterre,Americas,Caribbean,Latin America & Caribbean ,46922,2025
+South Korea,韩国,Republic of Korea,KR,KOR,Seoul,,Seoul,Asia,Eastern Asia,East Asia & Pacific,51684564,2025
+Kuwait,科威特,State of Kuwait,KW,KWT,Kuwait City,,Kuwait City,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",4865298,2025
+Laos,老挝,Lao People's Democratic Republic,LA,LAO,Vientiane,,Vientiane,Asia,South-Eastern Asia,East Asia & Pacific,7873046,2025
+Lebanon,黎巴嫩,Lebanese Republic,LB,LBN,Beirut,,Beirut,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",5849421,2025
+Liberia,利比里亚,Republic of Liberia,LR,LBR,Monrovia,,Monrovia,Africa,Western Africa,Sub-Saharan Africa ,5731206,2025
+Libya,利比亚,State of Libya,LY,LBY,Tripoli,,Tripoli,Africa,Northern Africa,"Middle East, North Africa, Afghanistan & Pakistan",7458555,2025
+Saint Lucia,圣卢西亚,Saint Lucia,LC,LCA,Castries,,Castries,Americas,Caribbean,Latin America & Caribbean ,180149,2025
+Liechtenstein,列支敦士登,Principality of Liechtenstein,LI,LIE,Vaduz,,Vaduz,Europe,Western Europe,Europe & Central Asia,41024,2025
+Sri Lanka,斯里兰卡,Democratic Socialist Republic of Sri Lanka,LK,LKA,Colombo,,Colombo,Asia,Southern Asia,South Asia,21756000,2025
+Lesotho,莱索托,Kingdom of Lesotho,LS,LSO,Maseru,,Maseru,Africa,Southern Africa,Sub-Saharan Africa ,2363325,2025
+Lithuania,立陶宛,Republic of Lithuania,LT,LTU,Vilnius,,Vilnius,Europe,Northern Europe,Europe & Central Asia,2888774,2025
+Luxembourg,卢森堡,Grand Duchy of Luxembourg,LU,LUX,Luxembourg,,Luxembourg,Europe,Western Europe,Europe & Central Asia,686970,2025
+Latvia,拉脱维亚,Republic of Latvia,LV,LVA,Riga,,Riga,Europe,Northern Europe,Europe & Central Asia,1847785,2025
+Morocco,摩洛哥,Kingdom of Morocco,MA,MAR,Rabat,,Rabat,Africa,Northern Africa,"Middle East, North Africa, Afghanistan & Pakistan",38430770,2025
+Monaco,摩纳哥,Principality of Monaco,MC,MCO,Monaco,,Monaco,Europe,Western Europe,Europe & Central Asia,38341,2025
+Moldova,摩尔多瓦,Republic of Moldova,MD,MDA,Chișinău,,Chisinau,Europe,Eastern Europe,Europe & Central Asia,2360527,2025
+Madagascar,马达加斯加,Republic of Madagascar,MG,MDG,Antananarivo,,Antananarivo,Africa,Eastern Africa,Sub-Saharan Africa ,32740678,2025
+Maldives,马尔代夫,Republic of the Maldives,MV,MDV,Malé,,Male,Asia,Southern Asia,South Asia,529676,2025
+Mexico,墨西哥,United Mexican States,MX,MEX,Mexico City,,Mexico City,Americas,North America,Latin America & Caribbean ,131946900,2025
+Marshall Islands,马绍尔群岛,Republic of the Marshall Islands,MH,MHL,Majuro,,Majuro,Oceania,Micronesia,East Asia & Pacific,36282,2025
+North Macedonia,北馬其頓,Republic of North Macedonia,MK,MKD,Skopje,,Skopje,Europe,Southeast Europe,Europe & Central Asia,1820909,2025
+Mali,马里,Republic of Mali,ML,MLI,Bamako,,Bamako,Africa,Western Africa,Sub-Saharan Africa ,25198821,2025
+Malta,马耳他,Republic of Malta,MT,MLT,Valletta,,Valletta,Europe,Southern Europe,"Middle East, North Africa, Afghanistan & Pakistan",579704,2025
+Myanmar,缅甸,Republic of the Union of Myanmar,MM,MMR,Naypyidaw,,Naypyidaw,Asia,South-Eastern Asia,East Asia & Pacific,54850648,2025
+Montenegro,黑山,Montenegro,ME,MNE,Podgorica,,Podgorica,Europe,Southeast Europe,Europe & Central Asia,623129,2025
+Mongolia,蒙古,Mongolia,MN,MNG,Ulan Bator,,Ulaanbaatar,Asia,Eastern Asia,East Asia & Pacific,3568978,2025
+Mozambique,莫桑比克,Republic of Mozambique,MZ,MOZ,Maputo,,Maputo,Africa,Eastern Africa,Sub-Saharan Africa ,35631653,2025
+Mauritania,毛里塔尼亚,Islamic Republic of Mauritania,MR,MRT,Nouakchott,,Nouakchott,Africa,Western Africa,Sub-Saharan Africa ,5315065,2025
+Mauritius,毛里求斯,Republic of Mauritius,MU,MUS,Port Louis,,Port Louis,Africa,Eastern Africa,Sub-Saharan Africa ,1243741,2025
+Malawi,马拉维,Republic of Malawi,MW,MWI,Lilongwe,,Lilongwe,Africa,Eastern Africa,Sub-Saharan Africa ,22216120,2025
+Malaysia,马来西亚,Malaysia,MY,MYS,Kuala Lumpur,,Kuala Lumpur,Asia,South-Eastern Asia,East Asia & Pacific,35977838,2025
+Namibia,纳米比亚,Republic of Namibia,NA,NAM,Windhoek,,Windhoek,Africa,Southern Africa,Sub-Saharan Africa ,3092816,2025
+Niger,尼日尔,Republic of Niger,NE,NER,Niamey,,Niamey,Africa,Western Africa,Sub-Saharan Africa ,27917831,2025
+Nigeria,尼日利亚,Federal Republic of Nigeria,NG,NGA,Abuja,,Abuja,Africa,Western Africa,Sub-Saharan Africa ,237527782,2025
+Nicaragua,尼加拉瓜,Republic of Nicaragua,NI,NIC,Managua,,Managua,Americas,Central America,Latin America & Caribbean ,7007502,2025
+Netherlands,荷兰,Kingdom of the Netherlands,NL,NLD,Amsterdam,,Amsterdam,Europe,Western Europe,Europe & Central Asia,18087633,2025
+Norway,挪威,Kingdom of Norway,NO,NOR,Oslo,,Oslo,Europe,Northern Europe,Europe & Central Asia,5610870,2025
+Nepal,尼泊尔,Federal Democratic Republic of Nepal,NP,NPL,Kathmandu,,Kathmandu,Asia,Southern Asia,South Asia,29618118,2025
+Nauru,瑙鲁,Republic of Nauru,NR,NRU,Yaren,,Yaren District,Oceania,Micronesia,East Asia & Pacific,12025,2025
+New Zealand,新西兰,New Zealand,NZ,NZL,Wellington,,Wellington,Oceania,Australia and New Zealand,East Asia & Pacific,5324700,2025
+Oman,阿曼,Sultanate of Oman,OM,OMN,Muscat,,Muscat,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",5494691,2025
+Pakistan,巴基斯坦,Islamic Republic of Pakistan,PK,PAK,Islamabad,,Islamabad,Asia,Southern Asia,"Middle East, North Africa, Afghanistan & Pakistan",255219554,2025
+Panama,巴拿马,Republic of Panama,PA,PAN,Panama City,,Panama City,Americas,Central America,Latin America & Caribbean ,4571189,2025
+Peru,秘鲁,Republic of Peru,PE,PER,Lima,,Lima,Americas,South America,Latin America & Caribbean ,34576665,2025
+Philippines,菲律宾,Republic of the Philippines,PH,PHL,Manila,,Manila,Asia,South-Eastern Asia,East Asia & Pacific,116786962,2025
+Palau,帕劳,Republic of Palau,PW,PLW,Ngerulmud,,Koror,Oceania,Micronesia,East Asia & Pacific,17663,2025
+Papua New Guinea,巴布亚新几内亚,Independent State of Papua New Guinea,PG,PNG,Port Moresby,,Port Moresby,Oceania,Melanesia,East Asia & Pacific,10762817,2025
+Poland,波兰,Republic of Poland,PL,POL,Warsaw,,Warsaw,Europe,Central Europe,Europe & Central Asia,36435861,2025
+North Korea,朝鲜,Democratic People's Republic of Korea,KP,PRK,Pyongyang,,Pyongyang,Asia,Eastern Asia,East Asia & Pacific,26571036,2025
+Portugal,葡萄牙,Portuguese Republic,PT,PRT,Lisbon,,Lisbon,Europe,Southern Europe,Europe & Central Asia,10804871,2025
+Paraguay,巴拉圭,Republic of Paraguay,PY,PRY,Asunción,,Asuncion,Americas,South America,Latin America & Caribbean ,7013078,2025
+Qatar,卡塔尔,State of Qatar,QA,QAT,Doha,,Doha,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",2972215,2025
+Romania,罗马尼亚,Romania,RO,ROU,Bucharest,,Bucharest,Europe,Southeast Europe,Europe & Central Asia,19020271,2025
+Russia,俄罗斯,Russian Federation,RU,RUS,Moscow,,Moscow,Europe,Eastern Europe,Europe & Central Asia,143513328,2025
+Rwanda,卢旺达,Republic of Rwanda,RW,RWA,Kigali,,Kigali,Africa,Eastern Africa,Sub-Saharan Africa ,14569341,2025
+Saudi Arabia,沙特阿拉伯,Kingdom of Saudi Arabia,SA,SAU,Riyadh,,Riyadh,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",36973555,2025
+Sudan,苏丹,Republic of the Sudan,SD,SDN,Khartoum,,Khartoum,Africa,Northern Africa,Sub-Saharan Africa ,51662147,2025
+Senegal,塞内加尔,Republic of Senegal,SN,SEN,Dakar,,Dakar,Africa,Western Africa,Sub-Saharan Africa ,18931966,2025
+Singapore,新加坡,Republic of Singapore,SG,SGP,Singapore,,Singapore,Asia,South-Eastern Asia,East Asia & Pacific,6111175,2025
+Solomon Islands,所罗门群岛,Solomon Islands,SB,SLB,Honiara,,Honiara,Oceania,Melanesia,East Asia & Pacific,838645,2025
+Sierra Leone,塞拉利昂,Republic of Sierra Leone,SL,SLE,Freetown,,Freetown,Africa,Western Africa,Sub-Saharan Africa ,8819794,2025
+El Salvador,萨尔瓦多,Republic of El Salvador,SV,SLV,San Salvador,,San Salvador,Americas,Central America,Latin America & Caribbean ,6365503,2025
+San Marino,圣马力诺,Most Serene Republic of San Marino,SM,SMR,City of San Marino,,San Marino,Europe,Southern Europe,Europe & Central Asia,34109,2025
+Somalia,索马里,Federal Republic of Somalia,SO,SOM,Mogadishu,,Mogadishu,Africa,Eastern Africa,Sub-Saharan Africa ,19654739,2025
+Serbia,塞尔维亚,Republic of Serbia,RS,SRB,Belgrade,,Belgrade,Europe,Southeast Europe,Europe & Central Asia,6549143,2025
+South Sudan,南苏丹,Republic of South Sudan,SS,SSD,Juba,,Juba,Africa,Middle Africa,Sub-Saharan Africa ,12188788,2025
+São Tomé and Príncipe,圣多美和普林西比,Democratic Republic of São Tomé and Príncipe,ST,STP,São Tomé,,Sao Tome,Africa,Middle Africa,Sub-Saharan Africa ,240254,2025
+Suriname,苏里南,Republic of Suriname,SR,SUR,Paramaribo,,Paramaribo,Americas,South America,Latin America & Caribbean ,639850,2025
+Slovakia,斯洛伐克,Slovak Republic,SK,SVK,Bratislava,,Bratislava,Europe,Central Europe,Europe & Central Asia,5413813,2025
+Slovenia,斯洛文尼亚,Republic of Slovenia,SI,SVN,Ljubljana,,Ljubljana,Europe,Central Europe,Europe & Central Asia,2130986,2025
+Sweden,瑞典,Kingdom of Sweden,SE,SWE,Stockholm,,Stockholm,Europe,Northern Europe,Europe & Central Asia,10596620,2025
+Eswatini,斯威士兰,Kingdom of Eswatini,SZ,SWZ,Lobamba,,Mbabane,Africa,Southern Africa,Sub-Saharan Africa ,1256174,2025
+Seychelles,塞舌尔,Republic of Seychelles,SC,SYC,Victoria,,Victoria,Africa,Eastern Africa,Sub-Saharan Africa ,122730,2025
+Syria,叙利亚,Syrian Arab Republic,SY,SYR,Damascus,,Damascus,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",25620427,2025
+Chad,乍得,Republic of Chad,TD,TCD,N'Djamena,,N'Djamena,Africa,Middle Africa,Sub-Saharan Africa ,21003705,2025
+Togo,多哥,Togolese Republic,TG,TGO,Lomé,,Lome,Africa,Western Africa,Sub-Saharan Africa ,8591626,2025
+Thailand,泰国,Kingdom of Thailand,TH,THA,Bangkok,,Bangkok,Asia,South-Eastern Asia,East Asia & Pacific,71619863,2025
+Tajikistan,塔吉克斯坦,Republic of Tajikistan,TJ,TJK,Dushanbe,,Dushanbe,Asia,Central Asia,Europe & Central Asia,10786734,2025
+Turkmenistan,土库曼斯坦,Turkmenistan,TM,TKM,Ashgabat,,Ashgabat,Asia,Central Asia,Europe & Central Asia,7618847,2025
+Timor-Leste,东帝汶,Democratic Republic of Timor-Leste,TL,TLS,Dili,,Dili,Asia,South-Eastern Asia,East Asia & Pacific,1418517,2025
+Tonga,汤加,Kingdom of Tonga,TO,TON,Nuku'alofa,,Nuku'alofa,Oceania,Polynesia,East Asia & Pacific,103742,2025
+Trinidad and Tobago,特立尼达和多巴哥,Republic of Trinidad and Tobago,TT,TTO,Port of Spain,,Port-of-Spain,Americas,Caribbean,Latin America & Caribbean ,1367764,2025
+Tunisia,突尼斯,Tunisian Republic,TN,TUN,Tunis,,Tunis,Africa,Northern Africa,"Middle East, North Africa, Afghanistan & Pakistan",12348573,2025
+Türkiye,土耳其,Republic of Türkiye,TR,TUR,Ankara,,Ankara,Asia,Western Asia,Europe & Central Asia,85878556,2025
+Tuvalu,图瓦卢,Tuvalu,TV,TUV,Funafuti,,Funafuti,Oceania,Polynesia,East Asia & Pacific,9492,2025
+Tanzania,坦桑尼亚,United Republic of Tanzania,TZ,TZA,Dodoma,,Dodoma,Africa,Eastern Africa,Sub-Saharan Africa ,70545865,2025
+Uganda,乌干达,Republic of Uganda,UG,UGA,Kampala,,Kampala,Africa,Eastern Africa,Sub-Saharan Africa ,51384894,2025
+Ukraine,乌克兰,Ukraine,UA,UKR,Kyiv,,Kiev,Europe,Eastern Europe,Europe & Central Asia,38980376,2025
+Uruguay,乌拉圭,Oriental Republic of Uruguay,UY,URY,Montevideo,,Montevideo,Americas,South America,Latin America & Caribbean ,3384688,2025
+United States,美国,United States of America,US,USA,Washington D.C.,,Washington D.C.,Americas,North America,North America,341784857,2025
+Uzbekistan,乌兹别克斯坦,Republic of Uzbekistan,UZ,UZB,Tashkent,,Tashkent,Asia,Central Asia,Europe & Central Asia,37053428,2025
+Vatican City,梵蒂冈,Vatican City State,VA,VAT,Vatican City,,,Europe,Southern Europe,,,
+Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,VC,VCT,Kingstown,,Kingstown,Americas,Caribbean,Latin America & Caribbean ,99924,2025
+Venezuela,委内瑞拉,Bolivarian Republic of Venezuela,VE,VEN,Caracas,,Caracas,Americas,South America,Latin America & Caribbean ,28516896,2025
+Vietnam,越南,Socialist Republic of Vietnam,VN,VNM,Hanoi,,Hanoi,Asia,South-Eastern Asia,East Asia & Pacific,101598527,2025
+Vanuatu,瓦努阿图,Republic of Vanuatu,VU,VUT,Port Vila,,Port-Vila,Oceania,Melanesia,East Asia & Pacific,335169,2025
+Samoa,萨摩亚,Independent State of Samoa,WS,WSM,Apia,,Apia,Oceania,Polynesia,East Asia & Pacific,219306,2025
+Yemen,也门,Republic of Yemen,YE,YEM,Sana'a,,Sana'a,Asia,Western Asia,"Middle East, North Africa, Afghanistan & Pakistan",41773878,2025
+South Africa,南非,Republic of South Africa,ZA,ZAF,Pretoria; Bloemfontein; Cape Town,,Pretoria,Africa,Southern Africa,Sub-Saharan Africa ,64747319,2025
+Zambia,赞比亚,Republic of Zambia,ZM,ZMB,Lusaka,,Lusaka,Africa,Eastern Africa,Sub-Saharan Africa ,21913874,2025
+Zimbabwe,津巴布韦,Republic of Zimbabwe,ZW,ZWE,Harare,,Harare,Africa,Eastern Africa,Sub-Saharan Africa ,16950795,2025

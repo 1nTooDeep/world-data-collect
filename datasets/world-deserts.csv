@@ -1,0 +1,34 @@
+# 世界主要沙漠 top30（面积 km2）
+# 来源: https://en.wikipedia.org/wiki/List_of_deserts_by_area
+# 采集日期: 2026-11-09  | area_km2=沙漠总面积; type=类型(极地冰原/热带/亚热带/寒漠等); location=UN 联合地理分区; 南极荒漠 1420 万 km2 实为极地冰原居首
+rank,name,type,area_km2,location,countries
+1,Antarctic Desert,Polar ice and tundra,14200000,Antarctica,N/A
+2,Arctic Desert,Polar ice and tundra,13900000,Northern America Northern Europe Eastern Europe,"Canada (Yukon, Northwest Territories, and Nunavut), Finland, Greenland, Iceland, Norway (Svalbard and Jan Mayen), Russia (Siberia), Sweden, and the United States (Alaska)"
+3,Sahara Desert,Subtropical,9200000,Northern Africa Western Africa Middle Africa,"Algeria, Chad, Egypt, Eritrea, Libya, Mali, Mauritania, Morocco, Niger, Sudan, Tunisia, and Western Sahara"
+4,Arabian Desert,Subtropical,2330000,Western Asia Northern Africa,"Egypt (Sinai Peninsula), Iraq, Israel, Jordan, Kuwait, Oman, Palestine, Qatar, Saudi Arabia, United Arab Emirates, and Yemen"
+5,Great Australian Desert,Subtropical,1371000,Australasia,Australia
+6,Gobi Desert,Cold winter,1295000,Eastern Asia,China and Mongolia
+7,Kalahari Desert,Subtropical,900000,Southern Africa,"Botswana, Namibia, and South Africa"
+8,Patagonian Desert,Cold winter,673000,South America,Argentina and Chile
+9,Syrian Desert,Subtropical,500000,Western Asia,"Iraq, Jordan, Saudi Arabia, and Syria"
+10,Great Basin Desert,Cold winter,492000,Northern America,"United States (Nevada, Utah, California, and Idaho)"
+11,Chihuahuan Desert,Subtropical,175000}},Central America Northern America,Mexico and the United States
+12,Karakum Desert,Cold winter,350000,Central Asia,Turkmenistan
+13,Colorado Plateau,Cold winter,130000}},Northern America,United States
+14,Taklamakan Desert,Cold winter,337000,Eastern Asia,China
+15,Sonoran Desert,Subtropical,120000}},Central America Northern America,Mexico and the United States
+16,Kyzylkum Desert,Cold winter,115000}},Central Asia,"Kazakhstan, Turkmenistan, and Uzbekistan"
+17,Thar Desert,Subtropical,264091,Southern Asia,India and Pakistan
+18,Ogaden Desert,Tropical,200000,Eastern Africa,"Ethiopia, Somalia, and ''Somaliland''"
+19,Ustyurt Plateau,Cold winter,200000,Central Asia,"Kazakhstan, Turkmenistan, and Uzbekistan"
+20,Margo Desert,Subtropical,150000,Southern Asia,Afghanistan
+21,Registan Desert,Subtropical,146000,Southern Asia,Afghanistan
+22,Atacama Desert,Mild coastal,54000}},South America,Chile and Peru
+23,Danakil Desert,Tropical,136956,Eastern Africa,"Djibouti, Eritrea, and Ethiopia"
+24,Mojave Desert,Subtropical,124000,Northern America,United States
+25,Chalbi Desert,Tropical,98000,Eastern Africa,Kenya
+26,Columbia Basin,Cold winter,83100,Northern America,Canada and the United States
+27,Namib Desert,Cool coastal,81000,Middle Africa Southern Africa,"Angola, Namibia, and South Africa"
+28,Great Salt Desert,Subtropical,77000,Southern Asia,Iran
+29,Ferlo Desert,Tropical/subtropical,70000,Western Africa,Senegal
+30,Ladakh,Cold winter,59146,Southern Asia,India

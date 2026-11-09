@@ -1,0 +1,54 @@
+# 世界最长河流 top50
+"# 来源: https://en.wikipedia.org/wiki/List_of_river_systems_by_length (主表, 长度=河系总长)"
+"# 采集日期: 2026-11-09  | length_km=河系总长(km); drainage_km2=流域面积; discharge_m3s=年均流量; 注: 长度测量口径学界有争议(尼罗河vs亚马逊河第一之争), 本表采用页面排序口径"
+rank,river,length_km,drainage_km2,discharge_m3s,outflow,countries_in_basin
+1,Nile–White Nile–Kagera–Nyabarongo–Mwogo–Rukarara,6650,3254555,2490,Mediterranean,"Ethiopia, Eritrea, Sudan, Uganda, Tanzania, Kenya, Rwanda, Burundi, Egypt, Democratic Republic of the Congo, South Sudan"
+2,Amazon–Ucayali–Tambo–Ene–Mantaro,6400,7000000,230000,Atlantic Ocean,"Brazil, Peru, Colombia"
+3,Yangtze–Jinsha–Tongtian–Dangqu (Chang Jiang),6300,1970000,31900,East China Sea,China
+4,Mississippi–Missouri–Jefferson–Beaverhead–Red Rock–Hell Roaring,6275,3248000,21300,Gulf of Mexico,"United States (98.5%), Canada (1.5%)"
+5,Yenisey–Angara–Selenga–Ider,5539,2580000,20200,Kara Sea,"Russia (97%), Mongolia (2.9%)"
+6,Yellow River (Huang He),5464,752546,2571,Bohai Sea,China
+7,Ob–Irtysh,5410,2990000,13100,Gulf of Ob,"Russia, Kazakhstan, China, Mongolia"
+8,Río de la Plata–Paraná–Rio Grande,4880,3182064,27225,Río de la Plata,"Brazil (46.7%), Argentina (27.7%), Paraguay (13.5%), Bolivia (8.3%), Uruguay (3.8%)"
+9,Congo–Lualaba-Luvua-Luapula-Chambeshi (Zaïre),4700,3680000,41400,Atlantic Ocean,"Democratic Republic of the Congo, Central African Republic, Angola, Republic of the Congo, Tanzania, Cameroon, Zambia, Burundi, Rwanda"
+10,Amur–Argun,4444,1855000,12360,Sea of Okhotsk,"Russia, China, Mongolia"
+11,Lena,4400,2490000,18300,Laptev Sea,Russia
+12,Mekong (Lancang Jiang),4350,810000,16010,South China Sea,"China, Myanmar, Laos, Thailand, Cambodia, Vietnam"
+13,Mackenzie–Slave–Peace–Finlay,4241,1805200,9800,Beaufort Sea,Canada
+14,Niger,4200,2117700,8570,Gulf of Guinea,"Nigeria (26.6%), Mali (25.6%), Niger (23.6%), Algeria (7.6%), Guinea (4.5%), Cameroon (4.2%), Burkina Faso (3.9%), Côte d'Ivoire, Benin, Chad"
+15,Brahmaputra–Yarlung Tsangpo,3969,712035,27000,Ganges,"India (58.0%), China (28.8%), Bangladesh (6.6%), Disputed India/China (4.2%), Bhutan (2.4%)"
+16,Murray–Darling–Culgoa–Balonne–Condamine,3672,1061000,767,Southern Ocean,Australia
+17,Tocantins–Araguaia,3650,950000,17600,"Atlantic Ocean (Marajó Bay), Amazon Delta",Brazil
+18,Volga,3645,1380000,8380,Caspian Sea,Russia
+19,Shatt al-Arab–Euphrates–Murat,3596,938173,3350,Persian Gulf,"Iraq, Turkey, Syria, Iran"
+20,Madeira–Mamoré–Grande–Caine–Rocha,3380,1485200,31200,Amazon,"Brazil, Bolivia, Peru"
+21,Purús,3211,376600,11207,Amazon,"Brazil, Peru"
+22,Yukon,3185,854700,7000,Bering Sea,"United States (59.8%), Canada (40.2%)"
+23,Indus–Sênggê Zangbo,3180,1081718,5533,Arabian Sea,"Pakistan (93%), India and China"
+24,São Francisco,3180,610000,3300,Atlantic Ocean,Brazil
+25,Syr Darya–Naryn,3078,219000,703,Aral Sea,"Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan"
+26,Salween (Nu Jiang),3060,324000,6700222020202024000112233,last4=Kaylyn|first4=Sheppard|last5=Nabil|first5=Khélif|journal=Earth Systems and Environment |year=2019|volume=3 |issue=2 |page=105 |doi=10.1007/s41748-019-00105-0 |bibcode=2019ESE.....3..105R |s2cid=198422435 }},Andaman Sea
+27,Saint Lawrence–Niagara–Detroit–Saint Clair–Saint Marys–Saint Louis–North (Great Lakes),3058,1030000,12500,Gulf of Saint Lawrence,"Canada (52.1%), United States (47.9%)"
+28,Rio Grande,3057,570000,82,Gulf of Mexico,"United States (52.1%), Mexico (47.9%)"
+29,Lower Tunguska,2989,473000,3600,Yenisei,Russia
+30,Colorado-Green (western U.S.),2945,390000,1200,Gulf of California,"United States, Mexico"
+31,"Danube–Breg (Donau, Dunăre, Duna, Dunav, Dunaj)",2888,801463,6452,Black Sea,"Romania (28.9%), Hungary (11.7%), Austria (10.3%), Serbia (10.3%), Germany (7.5%), Slovakia (5.8%), Bulgaria (5.2%), Croatia (4.5%), Ukraine (3.8%), Bosnia and Herzegovina, Moldova, Montenegro, Czech Republic, Switzerland, Slovenia"
+32,Irrawaddy River–N'Mai River–Dulong River–Kelaoluo–Gada Qu,2809,404200,15112,Andaman Sea,"China, Myanmar"
+33,Zambezi (Zambesi),2740,1330000,4880,Mozambique Channel,"Zambia (41.6%), Angola (18.4%), Zimbabwe (15.6%), Mozambique (11.8%), Malawi (8.0%), Tanzania (2.0%), Namibia, Botswana"
+34,Vilyuy,2720,454000,1480,Lena,Russia
+35,Padma-Ganges-Alaknanda (Ganga),2704,1024000,16000,Bay of Bengal,"India, Bangladesh, China, Nepal"
+36,Amu Darya–Panj,2620,534739,1400,Aral Sea,"Uzbekistan, Turkmenistan, Tajikistan, Afghanistan"
+37,Japurá (Caquetá),2615,289000,18122,Amazon,"Brazil, Colombia"
+38,Nelson–Saskatchewan–South Saskatchewan–Bow,2570,1111890,3500,Hudson Bay,"Canada, United States"
+39,Paraguay (Rio Paraguay),2549,900000,4300,Paraná,"Brazil, Paraguay, Bolivia, Argentina"
+40,Kolyma,2513,647000,4100,East Siberian Sea,Russia
+41,Pilcomayo,2500,270000,200,Paraguay,"Paraguay, Argentina, Bolivia"
+42,Upper Ob–Katun,2490,1040000,,Ob,Russia
+43,Ishim,2450,177000,56,Irtysh,"Kazakhstan, Russia"
+44,Orange,2432,973000,365,Atlantic Ocean,"South Africa, Namibia, Botswana, Lesotho"
+45,Ural,2428,237000,475,Caspian Sea,"Russia, Kazakhstan"
+46,Juruá,2410,190573,6004,Amazon,"Peru, Brazil"
+47,Arkansas,2348,505000435122,1066,Mississippi,United States
+48,Songhua,2309,557180,2410,Amur,China
+49,Olenyok,2292,219000,1210,Laptev Sea,Russia
+50,Dnieper,2287,516300,1670,Black Sea,"Ukraine, Belarus, Russia"

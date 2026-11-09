@@ -1,0 +1,31 @@
+# 欧盟成员国基础数据（27 成员）
+# 来源: https://en.wikipedia.org/wiki/Member_state_of_the_European_Union (成员国主表)
+# 采集日期: 2026-11-09  | population=2021 Council Decision 口径; gdp_usd_million=名义GDP(百万美元); gdp_ppp_percap=IMF PPP人均(international dollars); gini=World Bank; hdi=UNDP HDR 2023/24; meps=欧洲议会席位
+iso2,country,accession,population,area_km2,largest_city,gdp_usd_million,gdp_ppp_percap,currency,gini,hdi,meps,official_languages
+AT,Austria,1995-01-01,8926000,83855,Vienna,535804,73050,euro,29.1,0.930,20,German
+BE,Belgium,1957-03-25 Founder,11566041,30528,Brussels,662183,73221,euro,33.0,0.951,22,Dutch French German
+BG,Bulgaria,2007-01-01,6916548,110994,Sofia,66250,39185,euro,29.2,0.845,17,Bulgarian
+CZ,Czech Republic,2004-05-01,10574153,78866,Prague,246953,56686,koruna,25.8,0.915,21,Czech
+HR,Croatia,2013-07-01,4036355,56594,Zagreb,89665,48811,euro,29,0.878,12,Croatian
+CY,Cyprus,2004-05-01,896000,9251,Nicosia,23380,59858,euro,31.2,0.913,6,Greek Turkish
+DK,Denmark,1973-01-01,5833883,43075,Copenhagen,347176,83454,krone,24.7,0.962,15,Danish
+EE,Estonia,2004-05-01,1330068,45227,Tallinn,43044,48008,euro,36.0,0.905,7,Estonian
+FI,Finland,1995-01-01,5527493,338424,Helsinki,306083,64657,euro,26.9,0.948,15,Finnish Swedish
+FR,France,1957-03-25 Founder,67439614,632786,Paris,2707074,65940,euro,32.7,0.920,81,French
+DE,Germany,1957-03-25 Founder,83120520,357386,Berlin,4710032,70930,euro,31.9,0.959,96,German
+GR,Greece,1981-01-01,10380000,131990,Athens,304084,46800,euro,34.3,0.908,21,Greek
+HU,Hungary,2004-05-01,9730772,93030,Budapest,170407,46807,forint,30.0,0.870,21,Hungarian
+IE,Ireland,1973-01-01,5006324,70273,Dublin,384940,127750,euro,34.3,0.949,14,English Irish
+IT,Italy,1957-03-25 Founder,58968501,301338,Rome,1988636,60993,euro,36.0,0.915,76,Italian
+LV,Latvia,2004-05-01,1862700,64589,Riga,35045,43527,euro,35.7,0.889,9,Latvian
+LT,Lithuania,2004-05-01,2795680,65200,Vilnius,53641,53624,euro,35.8,0.895,11,Lithuanian
+LU,Luxembourg,1957-03-25 Founder,633347,2586.4,Luxembourg,69453,151146,euro,30.8,0.922,6,Luxembourgish French German
+MT,Malta,2004-05-01,516100,316,Valletta,14859,72942,euro,25.8,0.924,6,Maltese English
+NL,Netherlands,1957-03-25 Founder,17614840,41543,Amsterdam,902355,81495,euro,30.9,0.955,31,Dutch
+PL,Poland,2004-05-01,37840001,312685,Warsaw,565854,51629,złoty,34.9,0.906,53,Polish
+PT,Portugal,1986-01-01,10749635,156597,Lisbon,364527,51853,euro,30.9,0.890,21,Portuguese
+RO,Romania,2007-01-01,19186201,238391,Bucharest,243698,47204,leu,31.5,0.845,33,Romanian
+SK,Slovakia,2004-05-01,5422194,49035,Bratislava,106552,45632,euro,25.8,0.880,15,Slovak
+SI,Slovenia,2004-05-01,2108977,20273,Ljubljana,54154,55684,euro,31.2,0.931,9,Slovene
+ES,Spain,1986-01-01,48946035,504030,Madrid,1647114,55089,euro,32.0,0.918,61,Spanish
+SE,Sweden,1995-01-01,10370000,449964,Stockholm,528929,71731,krona,25.0,0.959,21,Swedish

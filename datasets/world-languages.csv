@@ -1,0 +1,33 @@
+# 世界主要语言母语使用者排行
+"# 来源: https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers (Ethnologue 2026, 29th ed.)"
+"# 采集日期: 2026-11-09  | 单位: speakers_millions  | 仅含 L1(母语), >5000万, 不含大语言包(阿拉伯语/汉语等宏语言不在此列, 分支语种单列)"
+iso639_3,language_en,speakers_millions,family,branch
+cmn,Mandarin Chinese,988,Sino-Tibetan,Sinitic
+spa,Spanish,487,Indo-European,Romance
+eng,English,372,Indo-European,Germanic
+hin,Hindi,347,Indo-European,Indo-Aryan
+por,Portuguese,252,Indo-European,Romance
+ben,Bengali,232,Indo-European,Indo-Aryan
+rus,Russian,133,Indo-European,Balto-Slavic
+jpn,Japanese,124,Japonic,
+pnb,Western Punjabi,90,Indo-European,Indo-Aryan
+tur,Turkish,86,Turkic,Oghuz
+vie,Vietnamese,86,Austroasiatic,Vietic
+yue,Yue Chinese,85,Sino-Tibetan,Sinitic
+arz,Egyptian Arabic,83,Afroasiatic,Semitic
+wuu,Wu Chinese,83,Sino-Tibetan,Sinitic
+mar,Marathi,83,Indo-European,Indo-Aryan
+tel,Telugu,83,Dravidian,Dravidian languages
+kor,Korean,82,Koreanic,
+tam,Tamil,79,Dravidian,South
+urd,Urdu,78,Indo-European,Indo-Aryan
+ind,Indonesian,78,Austronesian,Malayo-Polynesian
+deu,Standard German,76,Indo-European,Germanic
+fra,French,76,Indo-European,Romance
+jav,Javanese,69,Austronesian,Malayo-Polynesian
+pes,Iranian Persian,65,Indo-European,Iranian
+ita,Italian,60,Indo-European,Romance
+hau,Hausa,58,Afroasiatic,Chadic
+guj,Gujarati,58,Indo-European,Indo-Aryan
+apc,Levantine Arabic,55,Afroasiatic,Semitic
+bho,Bhojpuri,53,Indo-European,Indo-Aryan

@@ -1,0 +1,42 @@
+# 中国省级行政区基础数据（34 个：23省+5自治区+4直辖市+2特区）
+# 骨架来源: https://en.wikipedia.org/wiki/ISO_3166-2:CN (34省级名录/代码/类型)
+# 人口面积: 2020 七普公报与官方面积(经维基省级条目转引); 港澳人口=2023估计; 台湾=内政部口径; 密度=人口/面积
+# 采集日期: 2026-11-09  | population_2020=七普常住人口(港澳台为地区口径)
+# GDP 2024(初步核实r)/2023(五经普修订): 名义GDP, 亿元人民币 + 百万美元(年均汇率 2024=7.1217, 2023=7.0467)
+# GDP 来源: https://en.wikipedia.org/wiki/List_of_Chinese_provincial-level_divisions_by_GDP (转引国家统计局/第五次经济普查修订口径); 采集日期: 2026-11-09
+# 台湾省 GDP 因口径不同(主计总处)未入列, 留空
+iso3166_2,name_en,name_zh,capital,type_en,type_zh,population_2020,density_per_km2,area_km2,abbreviation,gdp_2024_cny_100m,gdp_2024_usd_mil,gdp_2023_cny_100m,gdp_2023_usd_mil
+CN-AH,Anhui,安徽省,Hefei,province,省,61027171,435.6,140100,皖,50647,711160,48228,684398
+CN-BJ,Beijing,北京市,—(直辖市),municipality,直辖市,21893095,1334.13,16410,京,49670,697449,47354,671998
+CN-CQ,Chongqing,重庆市,—(直辖市),municipality,直辖市,32054159,389.01,82400,渝,32047,449987,30614,434449
+CN-FJ,Fujian,福建省,Fuzhou,province,省,41540086,342.18,121400,闽,57477,807063,54802,777693
+CN-GD,Guangdong,广东省,Guangzhou,province,省,126012510,700.85,179800,粤,141489,1986729,137905,1957021
+CN-GS,Gansu,甘肃省,Lanzhou,province,省,25019831,58.76,425800,甘,13020,182829,12346,175198
+CN-GX,Guangxi,广西壮族自治区,Nanning,autonomous region,自治区,50126804,210.97,237600,桂,28694,402911,27502,390278
+CN-GZ,Guizhou,贵州省,Guiyang,province,省,38562148,219.1,176000,黔,22646,317982,21514,305302
+CN-HA,Henan,河南省,Zhengzhou,province,省,99365519,595.0,167000,豫,63557,892443,60628,860370
+CN-HB,Hubei,湖北省,Wuhan,province,省,57752557,310.66,185900,鄂,59644,837501,56794,805970
+CN-HE,Hebei,河北省,Shijiazhuang,province,省,74610235,397.5,187700,冀,47448,666247,45660,647963
+CN-HI,Hainan,海南省,Haikou,province,省,10081232,297.21,33920,琼,7973,111949,7590,107713
+CN-HK,Hong Kong,香港特别行政区,—(特区),special administrative region,特别行政区,7332800,6642.03,1104,港,29088,408437,26836,380831
+CN-HL,Heilongjiang,黑龙江省,Harbin,province,省,31850088,70.37,452600,黑,16478,231379,16471,233736
+CN-HN,Hunan,湖南省,Changsha,province,省,66444864,313.72,211800,湘,53085,745394,50668,719025
+CN-JL,Jilin,吉林省,Changchun,province,省,24073453,128.46,187400,吉,14305,200865,13943,197861
+CN-JS,Jiangsu,江苏省,Nanjing,province,省,84748016,826.0,102600,苏,136697,1919442,130924,1857952
+CN-JX,Jiangxi,江西省,Nanchang,province,省,45188635,270.59,167000,赣,34228,480614,32677,463722
+CN-LN,Liaoning,辽宁省,Shenyang,province,省,42591407,287.59,148100,辽,32541,456925,31390,445454
+CN-MO,Macao,澳门特别行政区,—(特区),special administrative region,特别行政区,683218,20703.58,33,澳,3521,49441,3208,45530
+CN-NM,Inner Mongolia,内蒙古自治区,Hohhot,autonomous region,自治区,24049151,20.33,1183000,蒙,26337,369813,25020,355067
+CN-NX,Ningxia,宁夏回族自治区,Yinchuan,autonomous region,自治区,7202654,108.47,66400,宁,5520,77512,5369,76189
+CN-QH,Qinghai,青海省,Xining,province,省,5923957,8.2,722300,青,3966,55682,3849,54624
+CN-SC,Sichuan,四川省,Chengdu,province,省,83674866,172.17,486000,川,64538,906215,61353,870669
+CN-SD,Shandong,山东省,Jinan,province,省,101527453,646.26,157100,鲁,98407,1381789,94206,1336887
+CN-SH,Shanghai,上海市,—(直辖市),municipality,直辖市,24870895,3922.24,6341,沪,53760,754869,51404,729483
+CN-SN,Shaanxi,陕西省,Xi'an,province,省,39528999,192.26,205600,陕,35437,497593,33976,482162
+CN-SX,Shanxi,山西省,Taiyuan,province,省,34915616,222.82,156700,晋,25354,356003,26051,369688
+CN-TJ,Tianjin,天津市,—(直辖市),municipality,直辖市,13866009,1158.78,11966,津,17931,251784,17212,244253
+CN-TW,Taiwan,台湾省,Taipei,province,省,23567756,651.17,36193,台,,,,
+CN-XJ,Xinjiang,新疆维吾尔自治区,Ürümqi,autonomous region,自治区,25852345,15.57,1660000,新,20492,287746,19603,278191
+CN-XZ,Tibet,西藏自治区,Lhasa,autonomous region,自治区,3653919,3,1228400,藏,2789,39163,2533,35944
+CN-YN,Yunnan,云南省,Kunming,province,省,47209277,119.79,394100,云,31423,441235,30596,434186
+CN-ZJ,Zhejiang,浙江省,Hangzhou,province,省,64567588,634.26,101800,浙,90007,1263841,85620,1215031

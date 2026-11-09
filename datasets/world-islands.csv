@@ -1,0 +1,54 @@
+# 世界最大岛屿 top50（面积 km2）
+# 来源: https://en.wikipedia.org/wiki/List_of_islands_by_area (USGS/ESRI/UNEP-WCMC GlobalIslands v3)
+# 采集日期: 2026-11-09  | area_km2=岛屿主岛面积; 澳大利亚作为大陆不计; nation=主权归属
+rank,island,area_km2,nation,subnational_division,notes
+1,Greenland,2108459.47,Danish Realm,Greenland,Largest island in North America
+2,New Guinea,773751.01,Indonesia Papua New Guinea,"Papua and Central, Highland, South, West, and Southwest Papua Highlands, Momase, and Southern regions",Largest island in Oceania
+3,Borneo,723154.07,Brunei Indonesia Malaysia,"— Central, East, North, South, and West Kalimantan Sabah and Sarawak",Largest island in Asia
+4,Madagascar,592521.41,Madagascar,,Largest island in Africa
+5,Baffin Island,507204.95,Canada,Nunavut,Largest island in the Arctic Archipelago
+6,Sumatra,428134.16,Indonesia,"Aceh, Bengkulu, Jambi, Lampung, Riau, North, South, and West Sumatra",
+7,Honshu,228296.26,Japan,"Chūbu, Chūgoku, Kansai, Kantō, and Tōhoku regions",
+8,Victoria Island,219191.31,Canada,Northwest Territories and Nunavut,
+9,Great Britain,218634.50,United Kingdom,"England, Scotland, and Wales",Largest island in Europe
+10,Ellesmere Island,197790.33,Canada,Nunavut,
+11,Sulawesi,169981.39,Indonesia,"Gorontalo, Central, North, South, Southeast, and West Sulawesi",
+12,South Island {{nowrap|,150683.06,New Zealand,"Nelson, Tasman, Marlborough, West Coast, Canterbury, Otago, and Southland",
+13,Java,127467.41,Indonesia,"Banten, Jakarta, Yogyakarta, Central, East, and West Java",
+14,North Island,114573.11,New Zealand,"Auckland, Bay of Plenty, Gisborne, Hawke's Bay, Manawatū-Whanganui, Northland, Taranaki, Waikato, and Wellington regions",
+15,Newfoundland,108878.06,Canada,Newfoundland and Labrador,
+16,Cuba,105468.33,Cuba,,
+17,Luzon,104835.31,Philippines,"Bicol, Cagayan Valley, Calabarzon, Central Luzon, Cordillera, Ilocos, and Metro Manila",
+18,Iceland,100260.91,Iceland,,
+19,Mindanao,94468.78,Philippines,"Caraga, Davao, Bangsamoro, Northern Mindanao, Soccsksargen, and Zamboanga Peninsula",
+20,Ireland,83720.80,Republic of Ireland United Kingdom,— Northern Ireland,
+21,Hokkaido,77658.66,Japan,Hokkaido,
+22,Hispaniola,74365.90,{{nowrap|Dominican Republic}} Haiti,,
+23,Sakhalin,74237.11,Russia,Sakhalin Oblast,
+24,Banks Island,70191.02,Canada,Northwest Territories,
+25,Sri Lanka,65916.13,Sri Lanka,,
+26,Tasmania,64333.21,Australia,Tasmania,
+27,Devon Island,55535.39,Canada,Nunavut,Largest uninhabited island in the world
+28,Alexander Island,51947.36,,Antarctica,Largest island in Antarctica
+29,{{nowrap|Isla Grande de Tierra del Fuego}},47271.77,Argentina Chile,Tierra del Fuego Province Magallanes Region,Largest island in South America
+30,{{nowrap|Severny Island,45245.73,Russia,Arkhangelsk Oblast,
+31,Berkner Island,43873.1,,Antarctica,"Antarctic territorial claims by Argentina (partial), Chile, and the United Kingdom"
+32,Southampton Island,43069.35,Canada,Nunavut,
+33,Melville Island,42330.26,Canada,Northwest Territories and Nunavut,
+34,Axel Heiberg Island,42276.97,Canada,Nunavut,
+35,Spitsbergen,37379.69,Norway,Svalbard,
+36,Kyushu,36837.80,Japan,Kyushu,
+37,Taiwan,35935.90,Taiwan,,
+38,New Britain,35593.19,Papua New Guinea,East and West New Britain Provinces,
+39,Hainan,34242.70,China,Hainan,
+40,Prince of Wales Island,33307.98,Canada,Nunavut,
+41,{{nowrap|Yuzhny Island,32342.54,Russia,Arkhangelsk,
+42,Vancouver Island,31815.31,Canada,British Columbia,
+43,Marajó,31387.76,Brazil,Pará,World's largest river island (flluvial) island
+44,Timor,28791.02,Timor-Leste Indonesia,— East Nusa Tenggara,
+45,Sicily,25498.34,Italy,Sicily,
+46,Somerset Island,24754.51,Canada,Nunavut,
+47,Sardinia,23826.57,Italy,Sardinia,
+48,Kotelny Island,23553.48,Russia,Sakha Republic,
+49,Bananal Island,19162.25,Brazil,Tocantins,World's second largest river island and largest without ocean access
+50,Shikoku,18372.83,Japan,Shikoku,

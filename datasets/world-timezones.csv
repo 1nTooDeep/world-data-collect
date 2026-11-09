@@ -1,0 +1,603 @@
+# 世界时区表（IANA tzdata 全量）
+"# 来源: IANA Time Zone Database (经 Python 3.12 zoneinfo 标准库输出, tzdata 2025x 版)"
+"# 采集日期: 2026-11-09  | utc_offset=标准 UTC 偏移(6月15日代表日, 北半球夏令时区此值为 DST 偏移); has_dst=是否有夏令时; 共 599 个时区"
+tz_name,region,city,utc_offset,offset_hours,has_dst
+Africa/Abidjan,Africa,Abidjan,UTC+00:00,0,no
+Africa/Accra,Africa,Accra,UTC+00:00,0,no
+Africa/Addis_Ababa,Africa,Addis Ababa,UTC+03:00,3,no
+Africa/Algiers,Africa,Algiers,UTC+01:00,1,no
+Africa/Asmara,Africa,Asmara,UTC+03:00,3,no
+Africa/Asmera,Africa,Asmera,UTC+03:00,3,no
+Africa/Bamako,Africa,Bamako,UTC+00:00,0,no
+Africa/Bangui,Africa,Bangui,UTC+01:00,1,no
+Africa/Banjul,Africa,Banjul,UTC+00:00,0,no
+Africa/Bissau,Africa,Bissau,UTC+00:00,0,no
+Africa/Blantyre,Africa,Blantyre,UTC+02:00,2,no
+Africa/Brazzaville,Africa,Brazzaville,UTC+01:00,1,no
+Africa/Bujumbura,Africa,Bujumbura,UTC+02:00,2,no
+Africa/Cairo,Africa,Cairo,UTC+03:00,3,yes
+Africa/Casablanca,Africa,Casablanca,UTC+01:00,1,no
+Africa/Ceuta,Africa,Ceuta,UTC+02:00,2,yes
+Africa/Conakry,Africa,Conakry,UTC+00:00,0,no
+Africa/Dakar,Africa,Dakar,UTC+00:00,0,no
+Africa/Dar_es_Salaam,Africa,Dar es Salaam,UTC+03:00,3,no
+Africa/Djibouti,Africa,Djibouti,UTC+03:00,3,no
+Africa/Douala,Africa,Douala,UTC+01:00,1,no
+Africa/El_Aaiun,Africa,El Aaiun,UTC+01:00,1,no
+Africa/Freetown,Africa,Freetown,UTC+00:00,0,no
+Africa/Gaborone,Africa,Gaborone,UTC+02:00,2,no
+Africa/Harare,Africa,Harare,UTC+02:00,2,no
+Africa/Johannesburg,Africa,Johannesburg,UTC+02:00,2,no
+Africa/Juba,Africa,Juba,UTC+02:00,2,no
+Africa/Kampala,Africa,Kampala,UTC+03:00,3,no
+Africa/Khartoum,Africa,Khartoum,UTC+02:00,2,no
+Africa/Kigali,Africa,Kigali,UTC+02:00,2,no
+Africa/Kinshasa,Africa,Kinshasa,UTC+01:00,1,no
+Africa/Lagos,Africa,Lagos,UTC+01:00,1,no
+Africa/Libreville,Africa,Libreville,UTC+01:00,1,no
+Africa/Lome,Africa,Lome,UTC+00:00,0,no
+Africa/Luanda,Africa,Luanda,UTC+01:00,1,no
+Africa/Lubumbashi,Africa,Lubumbashi,UTC+02:00,2,no
+Africa/Lusaka,Africa,Lusaka,UTC+02:00,2,no
+Africa/Malabo,Africa,Malabo,UTC+01:00,1,no
+Africa/Maputo,Africa,Maputo,UTC+02:00,2,no
+Africa/Maseru,Africa,Maseru,UTC+02:00,2,no
+Africa/Mbabane,Africa,Mbabane,UTC+02:00,2,no
+Africa/Mogadishu,Africa,Mogadishu,UTC+03:00,3,no
+Africa/Monrovia,Africa,Monrovia,UTC+00:00,0,no
+Africa/Nairobi,Africa,Nairobi,UTC+03:00,3,no
+Africa/Ndjamena,Africa,Ndjamena,UTC+01:00,1,no
+Africa/Niamey,Africa,Niamey,UTC+01:00,1,no
+Africa/Nouakchott,Africa,Nouakchott,UTC+00:00,0,no
+Africa/Ouagadougou,Africa,Ouagadougou,UTC+00:00,0,no
+Africa/Porto-Novo,Africa,Porto-Novo,UTC+01:00,1,no
+Africa/Sao_Tome,Africa,Sao Tome,UTC+00:00,0,no
+Africa/Timbuktu,Africa,Timbuktu,UTC+00:00,0,no
+Africa/Tripoli,Africa,Tripoli,UTC+02:00,2,no
+Africa/Tunis,Africa,Tunis,UTC+01:00,1,no
+Africa/Windhoek,Africa,Windhoek,UTC+02:00,2,no
+America/Adak,America,Adak,UTC-09:00,-9,yes
+America/Anchorage,America,Anchorage,UTC-08:00,-8,yes
+America/Anguilla,America,Anguilla,UTC-04:00,-4,no
+America/Antigua,America,Antigua,UTC-04:00,-4,no
+America/Araguaina,America,Araguaina,UTC-03:00,-3,no
+America/Argentina/Buenos_Aires,America,Buenos Aires,UTC-03:00,-3,no
+America/Argentina/Catamarca,America,Catamarca,UTC-03:00,-3,no
+America/Argentina/ComodRivadavia,America,ComodRivadavia,UTC-03:00,-3,no
+America/Argentina/Cordoba,America,Cordoba,UTC-03:00,-3,no
+America/Argentina/Jujuy,America,Jujuy,UTC-03:00,-3,no
+America/Argentina/La_Rioja,America,La Rioja,UTC-03:00,-3,no
+America/Argentina/Mendoza,America,Mendoza,UTC-03:00,-3,no
+America/Argentina/Rio_Gallegos,America,Rio Gallegos,UTC-03:00,-3,no
+America/Argentina/Salta,America,Salta,UTC-03:00,-3,no
+America/Argentina/San_Juan,America,San Juan,UTC-03:00,-3,no
+America/Argentina/San_Luis,America,San Luis,UTC-03:00,-3,no
+America/Argentina/Tucuman,America,Tucuman,UTC-03:00,-3,no
+America/Argentina/Ushuaia,America,Ushuaia,UTC-03:00,-3,no
+America/Aruba,America,Aruba,UTC-04:00,-4,no
+America/Asuncion,America,Asuncion,UTC-03:00,-3,no
+America/Atikokan,America,Atikokan,UTC-05:00,-5,no
+America/Atka,America,Atka,UTC-09:00,-9,yes
+America/Bahia,America,Bahia,UTC-03:00,-3,no
+America/Bahia_Banderas,America,Bahia Banderas,UTC-06:00,-6,no
+America/Barbados,America,Barbados,UTC-04:00,-4,no
+America/Belem,America,Belem,UTC-03:00,-3,no
+America/Belize,America,Belize,UTC-06:00,-6,no
+America/Blanc-Sablon,America,Blanc-Sablon,UTC-04:00,-4,no
+America/Boa_Vista,America,Boa Vista,UTC-04:00,-4,no
+America/Bogota,America,Bogota,UTC-05:00,-5,no
+America/Boise,America,Boise,UTC-06:00,-6,yes
+America/Buenos_Aires,America,Buenos Aires,UTC-03:00,-3,no
+America/Cambridge_Bay,America,Cambridge Bay,UTC-06:00,-6,yes
+America/Campo_Grande,America,Campo Grande,UTC-04:00,-4,no
+America/Cancun,America,Cancun,UTC-05:00,-5,no
+America/Caracas,America,Caracas,UTC-04:00,-4,no
+America/Catamarca,America,Catamarca,UTC-03:00,-3,no
+America/Cayenne,America,Cayenne,UTC-03:00,-3,no
+America/Cayman,America,Cayman,UTC-05:00,-5,no
+America/Chicago,America,Chicago,UTC-05:00,-5,yes
+America/Chihuahua,America,Chihuahua,UTC-06:00,-6,no
+America/Ciudad_Juarez,America,Ciudad Juarez,UTC-06:00,-6,yes
+America/Coral_Harbour,America,Coral Harbour,UTC-05:00,-5,no
+America/Cordoba,America,Cordoba,UTC-03:00,-3,no
+America/Costa_Rica,America,Costa Rica,UTC-06:00,-6,no
+America/Coyhaique,America,Coyhaique,UTC-03:00,-3,no
+America/Creston,America,Creston,UTC-07:00,-7,no
+America/Cuiaba,America,Cuiaba,UTC-04:00,-4,no
+America/Curacao,America,Curacao,UTC-04:00,-4,no
+America/Danmarkshavn,America,Danmarkshavn,UTC+00:00,0,no
+America/Dawson,America,Dawson,UTC-07:00,-7,no
+America/Dawson_Creek,America,Dawson Creek,UTC-07:00,-7,no
+America/Denver,America,Denver,UTC-06:00,-6,yes
+America/Detroit,America,Detroit,UTC-04:00,-4,yes
+America/Dominica,America,Dominica,UTC-04:00,-4,no
+America/Edmonton,America,Edmonton,UTC-06:00,-6,yes
+America/Eirunepe,America,Eirunepe,UTC-05:00,-5,no
+America/El_Salvador,America,El Salvador,UTC-06:00,-6,no
+America/Ensenada,America,Ensenada,UTC-07:00,-7,yes
+America/Fort_Nelson,America,Fort Nelson,UTC-07:00,-7,no
+America/Fort_Wayne,America,Fort Wayne,UTC-04:00,-4,yes
+America/Fortaleza,America,Fortaleza,UTC-03:00,-3,no
+America/Glace_Bay,America,Glace Bay,UTC-03:00,-3,yes
+America/Godthab,America,Godthab,UTC-01:00,-1,yes
+America/Goose_Bay,America,Goose Bay,UTC-03:00,-3,yes
+America/Grand_Turk,America,Grand Turk,UTC-04:00,-4,yes
+America/Grenada,America,Grenada,UTC-04:00,-4,no
+America/Guadeloupe,America,Guadeloupe,UTC-04:00,-4,no
+America/Guatemala,America,Guatemala,UTC-06:00,-6,no
+America/Guayaquil,America,Guayaquil,UTC-05:00,-5,no
+America/Guyana,America,Guyana,UTC-04:00,-4,no
+America/Halifax,America,Halifax,UTC-03:00,-3,yes
+America/Havana,America,Havana,UTC-04:00,-4,yes
+America/Hermosillo,America,Hermosillo,UTC-07:00,-7,no
+America/Indiana/Indianapolis,America,Indianapolis,UTC-04:00,-4,yes
+America/Indiana/Knox,America,Knox,UTC-05:00,-5,yes
+America/Indiana/Marengo,America,Marengo,UTC-04:00,-4,yes
+America/Indiana/Petersburg,America,Petersburg,UTC-04:00,-4,yes
+America/Indiana/Tell_City,America,Tell City,UTC-05:00,-5,yes
+America/Indiana/Vevay,America,Vevay,UTC-04:00,-4,yes
+America/Indiana/Vincennes,America,Vincennes,UTC-04:00,-4,yes
+America/Indiana/Winamac,America,Winamac,UTC-04:00,-4,yes
+America/Indianapolis,America,Indianapolis,UTC-04:00,-4,yes
+America/Inuvik,America,Inuvik,UTC-06:00,-6,yes
+America/Iqaluit,America,Iqaluit,UTC-04:00,-4,yes
+America/Jamaica,America,Jamaica,UTC-05:00,-5,no
+America/Jujuy,America,Jujuy,UTC-03:00,-3,no
+America/Juneau,America,Juneau,UTC-08:00,-8,yes
+America/Kentucky/Louisville,America,Louisville,UTC-04:00,-4,yes
+America/Kentucky/Monticello,America,Monticello,UTC-04:00,-4,yes
+America/Knox_IN,America,Knox IN,UTC-05:00,-5,yes
+America/Kralendijk,America,Kralendijk,UTC-04:00,-4,no
+America/La_Paz,America,La Paz,UTC-04:00,-4,no
+America/Lima,America,Lima,UTC-05:00,-5,no
+America/Los_Angeles,America,Los Angeles,UTC-07:00,-7,yes
+America/Louisville,America,Louisville,UTC-04:00,-4,yes
+America/Lower_Princes,America,Lower Princes,UTC-04:00,-4,no
+America/Maceio,America,Maceio,UTC-03:00,-3,no
+America/Managua,America,Managua,UTC-06:00,-6,no
+America/Manaus,America,Manaus,UTC-04:00,-4,no
+America/Marigot,America,Marigot,UTC-04:00,-4,no
+America/Martinique,America,Martinique,UTC-04:00,-4,no
+America/Matamoros,America,Matamoros,UTC-05:00,-5,yes
+America/Mazatlan,America,Mazatlan,UTC-07:00,-7,no
+America/Mendoza,America,Mendoza,UTC-03:00,-3,no
+America/Menominee,America,Menominee,UTC-05:00,-5,yes
+America/Merida,America,Merida,UTC-06:00,-6,no
+America/Metlakatla,America,Metlakatla,UTC-08:00,-8,yes
+America/Mexico_City,America,Mexico City,UTC-06:00,-6,no
+America/Miquelon,America,Miquelon,UTC-02:00,-2,yes
+America/Moncton,America,Moncton,UTC-03:00,-3,yes
+America/Monterrey,America,Monterrey,UTC-06:00,-6,no
+America/Montevideo,America,Montevideo,UTC-03:00,-3,no
+America/Montreal,America,Montreal,UTC-04:00,-4,yes
+America/Montserrat,America,Montserrat,UTC-04:00,-4,no
+America/Nassau,America,Nassau,UTC-04:00,-4,yes
+America/New_York,America,New York,UTC-04:00,-4,yes
+America/Nipigon,America,Nipigon,UTC-04:00,-4,yes
+America/Nome,America,Nome,UTC-08:00,-8,yes
+America/Noronha,America,Noronha,UTC-02:00,-2,no
+America/North_Dakota/Beulah,America,Beulah,UTC-05:00,-5,yes
+America/North_Dakota/Center,America,Center,UTC-05:00,-5,yes
+America/North_Dakota/New_Salem,America,New Salem,UTC-05:00,-5,yes
+America/Nuuk,America,Nuuk,UTC-01:00,-1,yes
+America/Ojinaga,America,Ojinaga,UTC-05:00,-5,yes
+America/Panama,America,Panama,UTC-05:00,-5,no
+America/Pangnirtung,America,Pangnirtung,UTC-04:00,-4,yes
+America/Paramaribo,America,Paramaribo,UTC-03:00,-3,no
+America/Phoenix,America,Phoenix,UTC-07:00,-7,no
+America/Port-au-Prince,America,Port-au-Prince,UTC-04:00,-4,yes
+America/Port_of_Spain,America,Port of Spain,UTC-04:00,-4,no
+America/Porto_Acre,America,Porto Acre,UTC-05:00,-5,no
+America/Porto_Velho,America,Porto Velho,UTC-04:00,-4,no
+America/Puerto_Rico,America,Puerto Rico,UTC-04:00,-4,no
+America/Punta_Arenas,America,Punta Arenas,UTC-03:00,-3,no
+America/Rainy_River,America,Rainy River,UTC-05:00,-5,yes
+America/Rankin_Inlet,America,Rankin Inlet,UTC-05:00,-5,yes
+America/Recife,America,Recife,UTC-03:00,-3,no
+America/Regina,America,Regina,UTC-06:00,-6,no
+America/Resolute,America,Resolute,UTC-05:00,-5,yes
+America/Rio_Branco,America,Rio Branco,UTC-05:00,-5,no
+America/Rosario,America,Rosario,UTC-03:00,-3,no
+America/Santa_Isabel,America,Santa Isabel,UTC-07:00,-7,yes
+America/Santarem,America,Santarem,UTC-03:00,-3,no
+America/Santiago,America,Santiago,UTC-04:00,-4,yes
+America/Santo_Domingo,America,Santo Domingo,UTC-04:00,-4,no
+America/Sao_Paulo,America,Sao Paulo,UTC-03:00,-3,no
+America/Scoresbysund,America,Scoresbysund,UTC-01:00,-1,yes
+America/Shiprock,America,Shiprock,UTC-06:00,-6,yes
+America/Sitka,America,Sitka,UTC-08:00,-8,yes
+America/St_Barthelemy,America,St Barthelemy,UTC-04:00,-4,no
+America/St_Johns,America,St Johns,UTC-02:30,-3,yes
+America/St_Kitts,America,St Kitts,UTC-04:00,-4,no
+America/St_Lucia,America,St Lucia,UTC-04:00,-4,no
+America/St_Thomas,America,St Thomas,UTC-04:00,-4,no
+America/St_Vincent,America,St Vincent,UTC-04:00,-4,no
+America/Swift_Current,America,Swift Current,UTC-06:00,-6,no
+America/Tegucigalpa,America,Tegucigalpa,UTC-06:00,-6,no
+America/Thule,America,Thule,UTC-03:00,-3,yes
+America/Thunder_Bay,America,Thunder Bay,UTC-04:00,-4,yes
+America/Tijuana,America,Tijuana,UTC-07:00,-7,yes
+America/Toronto,America,Toronto,UTC-04:00,-4,yes
+America/Tortola,America,Tortola,UTC-04:00,-4,no
+America/Vancouver,America,Vancouver,UTC-07:00,-7,yes
+America/Virgin,America,Virgin,UTC-04:00,-4,no
+America/Whitehorse,America,Whitehorse,UTC-07:00,-7,no
+America/Winnipeg,America,Winnipeg,UTC-05:00,-5,yes
+America/Yakutat,America,Yakutat,UTC-08:00,-8,yes
+America/Yellowknife,America,Yellowknife,UTC-06:00,-6,yes
+Antarctica/Casey,Antarctica,Casey,UTC+08:00,8,no
+Antarctica/Davis,Antarctica,Davis,UTC+07:00,7,no
+Antarctica/DumontDUrville,Antarctica,DumontDUrville,UTC+10:00,10,no
+Antarctica/Macquarie,Antarctica,Macquarie,UTC+10:00,10,yes
+Antarctica/Mawson,Antarctica,Mawson,UTC+05:00,5,no
+Antarctica/McMurdo,Antarctica,McMurdo,UTC+12:00,12,yes
+Antarctica/Palmer,Antarctica,Palmer,UTC-03:00,-3,no
+Antarctica/Rothera,Antarctica,Rothera,UTC-03:00,-3,no
+Antarctica/South_Pole,Antarctica,South Pole,UTC+12:00,12,yes
+Antarctica/Syowa,Antarctica,Syowa,UTC+03:00,3,no
+Antarctica/Troll,Antarctica,Troll,UTC+02:00,2,yes
+Antarctica/Vostok,Antarctica,Vostok,UTC+05:00,5,no
+Arctic/Longyearbyen,Arctic,Longyearbyen,UTC+02:00,2,yes
+Asia/Aden,Asia,Aden,UTC+03:00,3,no
+Asia/Almaty,Asia,Almaty,UTC+05:00,5,no
+Asia/Amman,Asia,Amman,UTC+03:00,3,no
+Asia/Anadyr,Asia,Anadyr,UTC+12:00,12,no
+Asia/Aqtau,Asia,Aqtau,UTC+05:00,5,no
+Asia/Aqtobe,Asia,Aqtobe,UTC+05:00,5,no
+Asia/Ashgabat,Asia,Ashgabat,UTC+05:00,5,no
+Asia/Ashkhabad,Asia,Ashkhabad,UTC+05:00,5,no
+Asia/Atyrau,Asia,Atyrau,UTC+05:00,5,no
+Asia/Baghdad,Asia,Baghdad,UTC+03:00,3,no
+Asia/Bahrain,Asia,Bahrain,UTC+03:00,3,no
+Asia/Baku,Asia,Baku,UTC+04:00,4,no
+Asia/Bangkok,Asia,Bangkok,UTC+07:00,7,no
+Asia/Barnaul,Asia,Barnaul,UTC+07:00,7,no
+Asia/Beirut,Asia,Beirut,UTC+03:00,3,yes
+Asia/Bishkek,Asia,Bishkek,UTC+06:00,6,no
+Asia/Brunei,Asia,Brunei,UTC+08:00,8,no
+Asia/Calcutta,Asia,Calcutta,UTC+05:30,5,no
+Asia/Chita,Asia,Chita,UTC+09:00,9,no
+Asia/Choibalsan,Asia,Choibalsan,UTC+08:00,8,no
+Asia/Chongqing,Asia,Chongqing,UTC+08:00,8,no
+Asia/Chungking,Asia,Chungking,UTC+08:00,8,no
+Asia/Colombo,Asia,Colombo,UTC+05:30,5,no
+Asia/Dacca,Asia,Dacca,UTC+06:00,6,no
+Asia/Damascus,Asia,Damascus,UTC+03:00,3,no
+Asia/Dhaka,Asia,Dhaka,UTC+06:00,6,no
+Asia/Dili,Asia,Dili,UTC+09:00,9,no
+Asia/Dubai,Asia,Dubai,UTC+04:00,4,no
+Asia/Dushanbe,Asia,Dushanbe,UTC+05:00,5,no
+Asia/Famagusta,Asia,Famagusta,UTC+03:00,3,yes
+Asia/Gaza,Asia,Gaza,UTC+03:00,3,yes
+Asia/Harbin,Asia,Harbin,UTC+08:00,8,no
+Asia/Hebron,Asia,Hebron,UTC+03:00,3,yes
+Asia/Ho_Chi_Minh,Asia,Ho Chi Minh,UTC+07:00,7,no
+Asia/Hong_Kong,Asia,Hong Kong,UTC+08:00,8,no
+Asia/Hovd,Asia,Hovd,UTC+07:00,7,no
+Asia/Irkutsk,Asia,Irkutsk,UTC+08:00,8,no
+Asia/Istanbul,Asia,Istanbul,UTC+03:00,3,no
+Asia/Jakarta,Asia,Jakarta,UTC+07:00,7,no
+Asia/Jayapura,Asia,Jayapura,UTC+09:00,9,no
+Asia/Jerusalem,Asia,Jerusalem,UTC+03:00,3,yes
+Asia/Kabul,Asia,Kabul,UTC+04:30,4,no
+Asia/Kamchatka,Asia,Kamchatka,UTC+12:00,12,no
+Asia/Karachi,Asia,Karachi,UTC+05:00,5,no
+Asia/Kashgar,Asia,Kashgar,UTC+06:00,6,no
+Asia/Kathmandu,Asia,Kathmandu,UTC+05:45,5,no
+Asia/Katmandu,Asia,Katmandu,UTC+05:45,5,no
+Asia/Khandyga,Asia,Khandyga,UTC+09:00,9,no
+Asia/Kolkata,Asia,Kolkata,UTC+05:30,5,no
+Asia/Krasnoyarsk,Asia,Krasnoyarsk,UTC+07:00,7,no
+Asia/Kuala_Lumpur,Asia,Kuala Lumpur,UTC+08:00,8,no
+Asia/Kuching,Asia,Kuching,UTC+08:00,8,no
+Asia/Kuwait,Asia,Kuwait,UTC+03:00,3,no
+Asia/Macao,Asia,Macao,UTC+08:00,8,no
+Asia/Macau,Asia,Macau,UTC+08:00,8,no
+Asia/Magadan,Asia,Magadan,UTC+11:00,11,no
+Asia/Makassar,Asia,Makassar,UTC+08:00,8,no
+Asia/Manila,Asia,Manila,UTC+08:00,8,no
+Asia/Muscat,Asia,Muscat,UTC+04:00,4,no
+Asia/Nicosia,Asia,Nicosia,UTC+03:00,3,yes
+Asia/Novokuznetsk,Asia,Novokuznetsk,UTC+07:00,7,no
+Asia/Novosibirsk,Asia,Novosibirsk,UTC+07:00,7,no
+Asia/Omsk,Asia,Omsk,UTC+06:00,6,no
+Asia/Oral,Asia,Oral,UTC+05:00,5,no
+Asia/Phnom_Penh,Asia,Phnom Penh,UTC+07:00,7,no
+Asia/Pontianak,Asia,Pontianak,UTC+07:00,7,no
+Asia/Pyongyang,Asia,Pyongyang,UTC+09:00,9,no
+Asia/Qatar,Asia,Qatar,UTC+03:00,3,no
+Asia/Qostanay,Asia,Qostanay,UTC+05:00,5,no
+Asia/Qyzylorda,Asia,Qyzylorda,UTC+05:00,5,no
+Asia/Rangoon,Asia,Rangoon,UTC+06:30,6,no
+Asia/Riyadh,Asia,Riyadh,UTC+03:00,3,no
+Asia/Saigon,Asia,Saigon,UTC+07:00,7,no
+Asia/Sakhalin,Asia,Sakhalin,UTC+11:00,11,no
+Asia/Samarkand,Asia,Samarkand,UTC+05:00,5,no
+Asia/Seoul,Asia,Seoul,UTC+09:00,9,no
+Asia/Shanghai,Asia,Shanghai,UTC+08:00,8,no
+Asia/Singapore,Asia,Singapore,UTC+08:00,8,no
+Asia/Srednekolymsk,Asia,Srednekolymsk,UTC+11:00,11,no
+Asia/Taipei,Asia,Taipei,UTC+08:00,8,no
+Asia/Tashkent,Asia,Tashkent,UTC+05:00,5,no
+Asia/Tbilisi,Asia,Tbilisi,UTC+04:00,4,no
+Asia/Tehran,Asia,Tehran,UTC+03:30,3,no
+Asia/Tel_Aviv,Asia,Tel Aviv,UTC+03:00,3,yes
+Asia/Thimbu,Asia,Thimbu,UTC+06:00,6,no
+Asia/Thimphu,Asia,Thimphu,UTC+06:00,6,no
+Asia/Tokyo,Asia,Tokyo,UTC+09:00,9,no
+Asia/Tomsk,Asia,Tomsk,UTC+07:00,7,no
+Asia/Ujung_Pandang,Asia,Ujung Pandang,UTC+08:00,8,no
+Asia/Ulaanbaatar,Asia,Ulaanbaatar,UTC+08:00,8,no
+Asia/Ulan_Bator,Asia,Ulan Bator,UTC+08:00,8,no
+Asia/Urumqi,Asia,Urumqi,UTC+06:00,6,no
+Asia/Ust-Nera,Asia,Ust-Nera,UTC+10:00,10,no
+Asia/Vientiane,Asia,Vientiane,UTC+07:00,7,no
+Asia/Vladivostok,Asia,Vladivostok,UTC+10:00,10,no
+Asia/Yakutsk,Asia,Yakutsk,UTC+09:00,9,no
+Asia/Yangon,Asia,Yangon,UTC+06:30,6,no
+Asia/Yekaterinburg,Asia,Yekaterinburg,UTC+05:00,5,no
+Asia/Yerevan,Asia,Yerevan,UTC+04:00,4,no
+Atlantic/Azores,Atlantic,Azores,UTC+00:00,0,yes
+Atlantic/Bermuda,Atlantic,Bermuda,UTC-03:00,-3,yes
+Atlantic/Canary,Atlantic,Canary,UTC+01:00,1,yes
+Atlantic/Cape_Verde,Atlantic,Cape Verde,UTC-01:00,-1,no
+Atlantic/Faeroe,Atlantic,Faeroe,UTC+01:00,1,yes
+Atlantic/Faroe,Atlantic,Faroe,UTC+01:00,1,yes
+Atlantic/Jan_Mayen,Atlantic,Jan Mayen,UTC+02:00,2,yes
+Atlantic/Madeira,Atlantic,Madeira,UTC+01:00,1,yes
+Atlantic/Reykjavik,Atlantic,Reykjavik,UTC+00:00,0,no
+Atlantic/South_Georgia,Atlantic,South Georgia,UTC-02:00,-2,no
+Atlantic/St_Helena,Atlantic,St Helena,UTC+00:00,0,no
+Atlantic/Stanley,Atlantic,Stanley,UTC-03:00,-3,no
+Australia/ACT,Australia,ACT,UTC+10:00,10,yes
+Australia/Adelaide,Australia,Adelaide,UTC+09:30,9,yes
+Australia/Brisbane,Australia,Brisbane,UTC+10:00,10,no
+Australia/Broken_Hill,Australia,Broken Hill,UTC+09:30,9,yes
+Australia/Canberra,Australia,Canberra,UTC+10:00,10,yes
+Australia/Currie,Australia,Currie,UTC+10:00,10,yes
+Australia/Darwin,Australia,Darwin,UTC+09:30,9,no
+Australia/Eucla,Australia,Eucla,UTC+08:45,8,no
+Australia/Hobart,Australia,Hobart,UTC+10:00,10,yes
+Australia/LHI,Australia,LHI,UTC+10:30,10,yes
+Australia/Lindeman,Australia,Lindeman,UTC+10:00,10,no
+Australia/Lord_Howe,Australia,Lord Howe,UTC+10:30,10,yes
+Australia/Melbourne,Australia,Melbourne,UTC+10:00,10,yes
+Australia/NSW,Australia,NSW,UTC+10:00,10,yes
+Australia/North,Australia,North,UTC+09:30,9,no
+Australia/Perth,Australia,Perth,UTC+08:00,8,no
+Australia/Queensland,Australia,Queensland,UTC+10:00,10,no
+Australia/South,Australia,South,UTC+09:30,9,yes
+Australia/Sydney,Australia,Sydney,UTC+10:00,10,yes
+Australia/Tasmania,Australia,Tasmania,UTC+10:00,10,yes
+Australia/Victoria,Australia,Victoria,UTC+10:00,10,yes
+Australia/West,Australia,West,UTC+08:00,8,no
+Australia/Yancowinna,Australia,Yancowinna,UTC+09:30,9,yes
+Brazil/Acre,Brazil,Acre,UTC-05:00,-5,no
+Brazil/DeNoronha,Brazil,DeNoronha,UTC-02:00,-2,no
+Brazil/East,Brazil,East,UTC-03:00,-3,no
+Brazil/West,Brazil,West,UTC-04:00,-4,no
+CET,Etc,CET,UTC+02:00,2,yes
+CST6CDT,Etc,CST6CDT,UTC-05:00,-5,yes
+Canada/Atlantic,Canada,Atlantic,UTC-03:00,-3,yes
+Canada/Central,Canada,Central,UTC-05:00,-5,yes
+Canada/Eastern,Canada,Eastern,UTC-04:00,-4,yes
+Canada/Mountain,Canada,Mountain,UTC-06:00,-6,yes
+Canada/Newfoundland,Canada,Newfoundland,UTC-02:30,-3,yes
+Canada/Pacific,Canada,Pacific,UTC-07:00,-7,yes
+Canada/Saskatchewan,Canada,Saskatchewan,UTC-06:00,-6,no
+Canada/Yukon,Canada,Yukon,UTC-07:00,-7,no
+Chile/Continental,Chile,Continental,UTC-04:00,-4,yes
+Chile/EasterIsland,Chile,EasterIsland,UTC-06:00,-6,yes
+Cuba,Etc,Cuba,UTC-04:00,-4,yes
+EET,Etc,EET,UTC+03:00,3,yes
+EST,Etc,EST,UTC-05:00,-5,no
+EST5EDT,Etc,EST5EDT,UTC-04:00,-4,yes
+Egypt,Etc,Egypt,UTC+03:00,3,yes
+Eire,Etc,Eire,UTC+01:00,1,yes
+Etc/GMT,Etc,GMT,UTC+00:00,0,no
+Etc/GMT+0,Etc,GMT+0,UTC+00:00,0,no
+Etc/GMT+1,Etc,GMT+1,UTC-01:00,-1,no
+Etc/GMT+10,Etc,GMT+10,UTC-10:00,-10,no
+Etc/GMT+11,Etc,GMT+11,UTC-11:00,-11,no
+Etc/GMT+12,Etc,GMT+12,UTC-12:00,-12,no
+Etc/GMT+2,Etc,GMT+2,UTC-02:00,-2,no
+Etc/GMT+3,Etc,GMT+3,UTC-03:00,-3,no
+Etc/GMT+4,Etc,GMT+4,UTC-04:00,-4,no
+Etc/GMT+5,Etc,GMT+5,UTC-05:00,-5,no
+Etc/GMT+6,Etc,GMT+6,UTC-06:00,-6,no
+Etc/GMT+7,Etc,GMT+7,UTC-07:00,-7,no
+Etc/GMT+8,Etc,GMT+8,UTC-08:00,-8,no
+Etc/GMT+9,Etc,GMT+9,UTC-09:00,-9,no
+Etc/GMT-0,Etc,GMT-0,UTC+00:00,0,no
+Etc/GMT-1,Etc,GMT-1,UTC+01:00,1,no
+Etc/GMT-10,Etc,GMT-10,UTC+10:00,10,no
+Etc/GMT-11,Etc,GMT-11,UTC+11:00,11,no
+Etc/GMT-12,Etc,GMT-12,UTC+12:00,12,no
+Etc/GMT-13,Etc,GMT-13,UTC+13:00,13,no
+Etc/GMT-14,Etc,GMT-14,UTC+14:00,14,no
+Etc/GMT-2,Etc,GMT-2,UTC+02:00,2,no
+Etc/GMT-3,Etc,GMT-3,UTC+03:00,3,no
+Etc/GMT-4,Etc,GMT-4,UTC+04:00,4,no
+Etc/GMT-5,Etc,GMT-5,UTC+05:00,5,no
+Etc/GMT-6,Etc,GMT-6,UTC+06:00,6,no
+Etc/GMT-7,Etc,GMT-7,UTC+07:00,7,no
+Etc/GMT-8,Etc,GMT-8,UTC+08:00,8,no
+Etc/GMT-9,Etc,GMT-9,UTC+09:00,9,no
+Etc/GMT0,Etc,GMT0,UTC+00:00,0,no
+Etc/Greenwich,Etc,Greenwich,UTC+00:00,0,no
+Etc/UCT,Etc,UCT,UTC+00:00,0,no
+Etc/UTC,Etc,UTC,UTC+00:00,0,no
+Etc/Universal,Etc,Universal,UTC+00:00,0,no
+Etc/Zulu,Etc,Zulu,UTC+00:00,0,no
+Europe/Amsterdam,Europe,Amsterdam,UTC+02:00,2,yes
+Europe/Andorra,Europe,Andorra,UTC+02:00,2,yes
+Europe/Astrakhan,Europe,Astrakhan,UTC+04:00,4,no
+Europe/Athens,Europe,Athens,UTC+03:00,3,yes
+Europe/Belfast,Europe,Belfast,UTC+01:00,1,yes
+Europe/Belgrade,Europe,Belgrade,UTC+02:00,2,yes
+Europe/Berlin,Europe,Berlin,UTC+02:00,2,yes
+Europe/Bratislava,Europe,Bratislava,UTC+02:00,2,yes
+Europe/Brussels,Europe,Brussels,UTC+02:00,2,yes
+Europe/Bucharest,Europe,Bucharest,UTC+03:00,3,yes
+Europe/Budapest,Europe,Budapest,UTC+02:00,2,yes
+Europe/Busingen,Europe,Busingen,UTC+02:00,2,yes
+Europe/Chisinau,Europe,Chisinau,UTC+03:00,3,yes
+Europe/Copenhagen,Europe,Copenhagen,UTC+02:00,2,yes
+Europe/Dublin,Europe,Dublin,UTC+01:00,1,yes
+Europe/Gibraltar,Europe,Gibraltar,UTC+02:00,2,yes
+Europe/Guernsey,Europe,Guernsey,UTC+01:00,1,yes
+Europe/Helsinki,Europe,Helsinki,UTC+03:00,3,yes
+Europe/Isle_of_Man,Europe,Isle of Man,UTC+01:00,1,yes
+Europe/Istanbul,Europe,Istanbul,UTC+03:00,3,no
+Europe/Jersey,Europe,Jersey,UTC+01:00,1,yes
+Europe/Kaliningrad,Europe,Kaliningrad,UTC+02:00,2,no
+Europe/Kiev,Europe,Kiev,UTC+03:00,3,yes
+Europe/Kirov,Europe,Kirov,UTC+03:00,3,no
+Europe/Kyiv,Europe,Kyiv,UTC+03:00,3,yes
+Europe/Lisbon,Europe,Lisbon,UTC+01:00,1,yes
+Europe/Ljubljana,Europe,Ljubljana,UTC+02:00,2,yes
+Europe/London,Europe,London,UTC+01:00,1,yes
+Europe/Luxembourg,Europe,Luxembourg,UTC+02:00,2,yes
+Europe/Madrid,Europe,Madrid,UTC+02:00,2,yes
+Europe/Malta,Europe,Malta,UTC+02:00,2,yes
+Europe/Mariehamn,Europe,Mariehamn,UTC+03:00,3,yes
+Europe/Minsk,Europe,Minsk,UTC+03:00,3,no
+Europe/Monaco,Europe,Monaco,UTC+02:00,2,yes
+Europe/Moscow,Europe,Moscow,UTC+03:00,3,no
+Europe/Nicosia,Europe,Nicosia,UTC+03:00,3,yes
+Europe/Oslo,Europe,Oslo,UTC+02:00,2,yes
+Europe/Paris,Europe,Paris,UTC+02:00,2,yes
+Europe/Podgorica,Europe,Podgorica,UTC+02:00,2,yes
+Europe/Prague,Europe,Prague,UTC+02:00,2,yes
+Europe/Riga,Europe,Riga,UTC+03:00,3,yes
+Europe/Rome,Europe,Rome,UTC+02:00,2,yes
+Europe/Samara,Europe,Samara,UTC+04:00,4,no
+Europe/San_Marino,Europe,San Marino,UTC+02:00,2,yes
+Europe/Sarajevo,Europe,Sarajevo,UTC+02:00,2,yes
+Europe/Saratov,Europe,Saratov,UTC+04:00,4,no
+Europe/Simferopol,Europe,Simferopol,UTC+03:00,3,no
+Europe/Skopje,Europe,Skopje,UTC+02:00,2,yes
+Europe/Sofia,Europe,Sofia,UTC+03:00,3,yes
+Europe/Stockholm,Europe,Stockholm,UTC+02:00,2,yes
+Europe/Tallinn,Europe,Tallinn,UTC+03:00,3,yes
+Europe/Tirane,Europe,Tirane,UTC+02:00,2,yes
+Europe/Tiraspol,Europe,Tiraspol,UTC+03:00,3,yes
+Europe/Ulyanovsk,Europe,Ulyanovsk,UTC+04:00,4,no
+Europe/Uzhgorod,Europe,Uzhgorod,UTC+03:00,3,yes
+Europe/Vaduz,Europe,Vaduz,UTC+02:00,2,yes
+Europe/Vatican,Europe,Vatican,UTC+02:00,2,yes
+Europe/Vienna,Europe,Vienna,UTC+02:00,2,yes
+Europe/Vilnius,Europe,Vilnius,UTC+03:00,3,yes
+Europe/Volgograd,Europe,Volgograd,UTC+03:00,3,no
+Europe/Warsaw,Europe,Warsaw,UTC+02:00,2,yes
+Europe/Zagreb,Europe,Zagreb,UTC+02:00,2,yes
+Europe/Zaporozhye,Europe,Zaporozhye,UTC+03:00,3,yes
+Europe/Zurich,Europe,Zurich,UTC+02:00,2,yes
+Factory,Etc,Factory,UTC+00:00,0,no
+GB,Etc,GB,UTC+01:00,1,yes
+GB-Eire,Etc,GB-Eire,UTC+01:00,1,yes
+GMT,Etc,GMT,UTC+00:00,0,no
+GMT+0,Etc,GMT+0,UTC+00:00,0,no
+GMT-0,Etc,GMT-0,UTC+00:00,0,no
+GMT0,Etc,GMT0,UTC+00:00,0,no
+Greenwich,Etc,Greenwich,UTC+00:00,0,no
+HST,Etc,HST,UTC-10:00,-10,no
+Hongkong,Etc,Hongkong,UTC+08:00,8,no
+Iceland,Etc,Iceland,UTC+00:00,0,no
+Indian/Antananarivo,Indian,Antananarivo,UTC+03:00,3,no
+Indian/Chagos,Indian,Chagos,UTC+06:00,6,no
+Indian/Christmas,Indian,Christmas,UTC+07:00,7,no
+Indian/Cocos,Indian,Cocos,UTC+06:30,6,no
+Indian/Comoro,Indian,Comoro,UTC+03:00,3,no
+Indian/Kerguelen,Indian,Kerguelen,UTC+05:00,5,no
+Indian/Mahe,Indian,Mahe,UTC+04:00,4,no
+Indian/Maldives,Indian,Maldives,UTC+05:00,5,no
+Indian/Mauritius,Indian,Mauritius,UTC+04:00,4,no
+Indian/Mayotte,Indian,Mayotte,UTC+03:00,3,no
+Indian/Reunion,Indian,Reunion,UTC+04:00,4,no
+Iran,Etc,Iran,UTC+03:30,3,no
+Israel,Etc,Israel,UTC+03:00,3,yes
+Jamaica,Etc,Jamaica,UTC-05:00,-5,no
+Japan,Etc,Japan,UTC+09:00,9,no
+Kwajalein,Etc,Kwajalein,UTC+12:00,12,no
+Libya,Etc,Libya,UTC+02:00,2,no
+MET,Etc,MET,UTC+02:00,2,yes
+MST,Etc,MST,UTC-07:00,-7,no
+MST7MDT,Etc,MST7MDT,UTC-06:00,-6,yes
+Mexico/BajaNorte,Mexico,BajaNorte,UTC-07:00,-7,yes
+Mexico/BajaSur,Mexico,BajaSur,UTC-07:00,-7,no
+Mexico/General,Mexico,General,UTC-06:00,-6,no
+NZ,Etc,NZ,UTC+12:00,12,yes
+NZ-CHAT,Etc,NZ-CHAT,UTC+12:45,12,yes
+Navajo,Etc,Navajo,UTC-06:00,-6,yes
+PRC,Etc,PRC,UTC+08:00,8,no
+PST8PDT,Etc,PST8PDT,UTC-07:00,-7,yes
+Pacific/Apia,Pacific,Apia,UTC+13:00,13,no
+Pacific/Auckland,Pacific,Auckland,UTC+12:00,12,yes
+Pacific/Bougainville,Pacific,Bougainville,UTC+11:00,11,no
+Pacific/Chatham,Pacific,Chatham,UTC+12:45,12,yes
+Pacific/Chuuk,Pacific,Chuuk,UTC+10:00,10,no
+Pacific/Easter,Pacific,Easter,UTC-06:00,-6,yes
+Pacific/Efate,Pacific,Efate,UTC+11:00,11,no
+Pacific/Enderbury,Pacific,Enderbury,UTC+13:00,13,no
+Pacific/Fakaofo,Pacific,Fakaofo,UTC+13:00,13,no
+Pacific/Fiji,Pacific,Fiji,UTC+12:00,12,no
+Pacific/Funafuti,Pacific,Funafuti,UTC+12:00,12,no
+Pacific/Galapagos,Pacific,Galapagos,UTC-06:00,-6,no
+Pacific/Gambier,Pacific,Gambier,UTC-09:00,-9,no
+Pacific/Guadalcanal,Pacific,Guadalcanal,UTC+11:00,11,no
+Pacific/Guam,Pacific,Guam,UTC+10:00,10,no
+Pacific/Honolulu,Pacific,Honolulu,UTC-10:00,-10,no
+Pacific/Johnston,Pacific,Johnston,UTC-10:00,-10,no
+Pacific/Kanton,Pacific,Kanton,UTC+13:00,13,no
+Pacific/Kiritimati,Pacific,Kiritimati,UTC+14:00,14,no
+Pacific/Kosrae,Pacific,Kosrae,UTC+11:00,11,no
+Pacific/Kwajalein,Pacific,Kwajalein,UTC+12:00,12,no
+Pacific/Majuro,Pacific,Majuro,UTC+12:00,12,no
+Pacific/Marquesas,Pacific,Marquesas,UTC-09:30,-10,no
+Pacific/Midway,Pacific,Midway,UTC-11:00,-11,no
+Pacific/Nauru,Pacific,Nauru,UTC+12:00,12,no
+Pacific/Niue,Pacific,Niue,UTC-11:00,-11,no
+Pacific/Norfolk,Pacific,Norfolk,UTC+11:00,11,yes
+Pacific/Noumea,Pacific,Noumea,UTC+11:00,11,no
+Pacific/Pago_Pago,Pacific,Pago Pago,UTC-11:00,-11,no
+Pacific/Palau,Pacific,Palau,UTC+09:00,9,no
+Pacific/Pitcairn,Pacific,Pitcairn,UTC-08:00,-8,no
+Pacific/Pohnpei,Pacific,Pohnpei,UTC+11:00,11,no
+Pacific/Ponape,Pacific,Ponape,UTC+11:00,11,no
+Pacific/Port_Moresby,Pacific,Port Moresby,UTC+10:00,10,no
+Pacific/Rarotonga,Pacific,Rarotonga,UTC-10:00,-10,no
+Pacific/Saipan,Pacific,Saipan,UTC+10:00,10,no
+Pacific/Samoa,Pacific,Samoa,UTC-11:00,-11,no
+Pacific/Tahiti,Pacific,Tahiti,UTC-10:00,-10,no
+Pacific/Tarawa,Pacific,Tarawa,UTC+12:00,12,no
+Pacific/Tongatapu,Pacific,Tongatapu,UTC+13:00,13,no
+Pacific/Truk,Pacific,Truk,UTC+10:00,10,no
+Pacific/Wake,Pacific,Wake,UTC+12:00,12,no
+Pacific/Wallis,Pacific,Wallis,UTC+12:00,12,no
+Pacific/Yap,Pacific,Yap,UTC+10:00,10,no
+Poland,Etc,Poland,UTC+02:00,2,yes
+Portugal,Etc,Portugal,UTC+01:00,1,yes
+ROC,Etc,ROC,UTC+08:00,8,no
+ROK,Etc,ROK,UTC+09:00,9,no
+Singapore,Etc,Singapore,UTC+08:00,8,no
+Turkey,Etc,Turkey,UTC+03:00,3,no
+UCT,Etc,UCT,UTC+00:00,0,no
+US/Alaska,US,Alaska,UTC-08:00,-8,yes
+US/Aleutian,US,Aleutian,UTC-09:00,-9,yes
+US/Arizona,US,Arizona,UTC-07:00,-7,no
+US/Central,US,Central,UTC-05:00,-5,yes
+US/East-Indiana,US,East-Indiana,UTC-04:00,-4,yes
+US/Eastern,US,Eastern,UTC-04:00,-4,yes
+US/Hawaii,US,Hawaii,UTC-10:00,-10,no
+US/Indiana-Starke,US,Indiana-Starke,UTC-05:00,-5,yes
+US/Michigan,US,Michigan,UTC-04:00,-4,yes
+US/Mountain,US,Mountain,UTC-06:00,-6,yes
+US/Pacific,US,Pacific,UTC-07:00,-7,yes
+US/Samoa,US,Samoa,UTC-11:00,-11,no
+UTC,Etc,UTC,UTC+00:00,0,no
+Universal,Etc,Universal,UTC+00:00,0,no
+W-SU,Etc,W-SU,UTC+03:00,3,no
+WET,Etc,WET,UTC+01:00,1,yes
+Zulu,Etc,Zulu,UTC+00:00,0,no
+localtime,Etc,localtime,UTC+08:00,8,no

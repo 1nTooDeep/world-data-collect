@@ -1,0 +1,61 @@
+# 美国各州数据 (50 states)
+# 采集日期: 2026-11-09
+# 来源: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States (缩写/首府/最大城市/加入日期/2020普查人口/面积/众议员席位)
+#       https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population (pop_2025_est = Census Bureau 2025-07-01 州人口估计,经维基百科转引)
+#       中文名/首府中文名: MediaWiki langlinks API (en.wikipedia -> zh.wikipedia),按完整条目标题消歧
+# 列: abbr(邮政缩写) name_en name_zh capital_en capital_zh largest_city
+#     admission_date(13原始州=宪法批准日,其余=国会准入日) admission_year
+#     pop_2020_census(2020-04-01普查) pop_2025_est(2025-07-01普查局估计) area_km2(总面积) reps_2020(众议员席位,2020年分配)
+# 面积由 Census Bureau mi2 换算 km2 (1 mi2 = 2.589988110336 km2),四舍五入到整数
+# 排序: 邮政缩写字母序
+abbr,name_en,name_zh,capital_en,capital_zh,largest_city,admission_date,admission_year,pop_2020_census,pop_2025_est,area_km2,reps_2020
+AK,Alaska,阿拉斯加州,Juneau,朱諾 (阿拉斯加州),Anchorage,"Jan 3, 1959",1959,733391,737270,1723337,1
+AL,Alabama,阿拉巴馬州,Montgomery,蒙哥马利 (亚拉巴马州),Huntsville,"Dec 14, 1819",1819,5024279,5193088,135767,7
+AR,Arkansas,阿肯色州,Little Rock,小岩城 (阿肯色州),Little Rock,"Jun 15, 1836",1836,3011524,3114791,137732,4
+AZ,Arizona,亞利桑那州,Phoenix,鳳凰城,Phoenix,"Feb 14, 1912",1912,7151502,7623818,295234,9
+CA,California,加利福尼亚州,Sacramento,沙加緬度,Los Angeles,"Sep 9, 1850",1850,39538223,39355309,423967,52
+CO,Colorado,科羅拉多州,Denver,丹佛,Denver,"Aug 1, 1876",1876,5773714,6012561,269601,8
+CT,Connecticut,康乃狄克州,Hartford,哈特福,Bridgeport,"Jan 9, 1788",1788,3605944,3688496,14357,5
+DE,Delaware,特拉华州,Dover,多佛 (特拉华州),Wilmington,"Dec 7, 1787",1787,989948,1059952,6446,1
+FL,Florida,佛罗里达州,Tallahassee,塔拉赫西,Jacksonville,"Mar 3, 1845",1845,21538187,23462518,170312,28
+GA,Georgia,喬治亞 (消歧義),Atlanta,亚特兰大,Atlanta,"Jan 2, 1788",1788,10711908,11302748,153910,14
+HI,Hawaii,夏威夷州,Honolulu,檀香山,Honolulu,"Aug 21, 1959",1959,1455271,1432820,28313,2
+IA,Iowa,艾奥瓦州,Des Moines,德梅因,Des Moines,"Dec 28, 1846",1846,3190369,3238387,145746,4
+ID,Idaho,爱达荷州,Boise,博伊西,Boise,"Jul 3, 1890",1890,1839106,2029733,216443,2
+IL,Illinois,伊利诺伊州,Springfield,斯普林菲尔德 (伊利诺伊州),Chicago,"Dec 3, 1818",1818,12812508,12719141,149995,17
+IN,Indiana,印第安纳州,Indianapolis,印第安納波利斯,Indianapolis,"Dec 11, 1816",1816,6785528,6973333,94326,9
+KS,Kansas,堪薩斯州,Topeka,托皮卡,Wichita,"Jan 29, 1861",1861,2937880,2977220,213100,4
+KY,Kentucky,肯塔基州,Frankfort,法兰克福 (肯塔基州),Louisville,"Jun 1, 1792",1792,4505836,4606864,104656,6
+LA,Louisiana,路易斯安那州,Baton Rouge,巴吞鲁日,New Orleans,"Apr 30, 1812",1812,4657757,4618789,135659,6
+MA,Massachusetts,麻薩諸塞州,Boston,波士顿,Boston,"Feb 6, 1788",1788,7029917,7154084,27336,9
+MD,Maryland,马里兰州,Annapolis,安纳波利斯,Baltimore,"Apr 28, 1788",1788,6177224,6265347,32131,8
+ME,Maine,缅因州,Augusta,奥古斯塔 (缅因州),Portland,"Mar 15, 1820",1820,1362359,1414874,91633,2
+MI,Michigan,密西根州,Lansing,兰辛,Detroit,"Jan 26, 1837",1837,10077331,10127884,250487,13
+MN,Minnesota,明尼蘇達州,Saint Paul,圣保罗 (明尼苏达州),Minneapolis,"May 11, 1858",1858,5706494,5830405,225163,8
+MO,Missouri,密蘇里州,Jefferson City,杰斐逊城 (密苏里州),Kansas City,"Aug 10, 1821",1821,6154913,6270541,180540,8
+MS,Mississippi,密西西比州,Jackson,杰克逊 (密西西比州),Jackson,"Dec 10, 1817",1817,2961279,2954160,125438,4
+MT,Montana,蒙大拿州,Helena,海伦娜 (蒙大拿州),Billings,"Nov 8, 1889",1889,1084225,1144694,380831,2
+NC,North Carolina,北卡罗来纳州,Raleigh,罗利 (北卡罗来纳州),Charlotte,"Nov 21, 1789",1789,10439388,11197968,139391,14
+ND,North Dakota,北达科他州,Bismarck,俾斯麥 (北達科塔州),Fargo,"Nov 2, 1889",1889,779094,799358,183108,1
+NE,Nebraska,內布拉斯加州,Lincoln,林肯 (内布拉斯加州),Omaha,"Mar 1, 1867",1867,1961504,2018006,200330,3
+NH,New Hampshire,新罕布什尔州,Concord,康科德 (新罕布什尔州),Manchester,"Jun 21, 1788",1788,1377529,1415342,24214,2
+NJ,New Jersey,新泽西州,Trenton,特伦顿 (新泽西州),Newark,"Dec 18, 1787",1787,9288994,9548215,22591,12
+NM,New Mexico,新墨西哥州,Santa Fe,圣菲 (新墨西哥州),Albuquerque,"Jan 6, 1912",1912,2117522,2125498,314917,3
+NV,Nevada,内华达州,Carson City,卡森城,Las Vegas,"Oct 31, 1864",1864,3104614,3282188,286380,4
+NY,New York,纽约州,Albany,奥尔巴尼,New York City,"Jul 26, 1788",1788,20201249,20002427,141297,26
+OH,Ohio,俄亥俄州,Columbus,哥伦布 (俄亥俄州),Columbus,"Mar 1, 1803",1803,11799448,11900510,116098,15
+OK,Oklahoma,奧克拉荷馬州,Oklahoma City,奧克拉荷馬市,Oklahoma City,"Nov 16, 1907",1907,3959353,4123288,181037,5
+OR,Oregon,俄勒冈州,Salem,塞勒姆 (俄勒冈州),Portland,"Feb 14, 1859",1859,4237256,4273586,254799,6
+PA,Pennsylvania,宾夕法尼亚州,Harrisburg,哈里斯堡,Philadelphia,"Dec 12, 1787",1787,13002700,13059432,119280,17
+RI,Rhode Island,羅德島州,Providence,普罗维登斯,Providence,"May 29, 1790",1790,1097379,1114521,4001,2
+SC,South Carolina,南卡罗来纳州,Columbia,哥伦比亚 (南卡罗来纳州),Charleston,"May 23, 1788",1788,5118425,5570274,82933,7
+SD,South Dakota,南达科他州,Pierre,皮尔 (南达科他州),Sioux Falls,"Nov 2, 1889",1889,886667,935094,199729,1
+TN,Tennessee,田纳西州,Nashville,纳什维尔,Nashville,"Jun 1, 1796",1796,6910840,7315076,109153,9
+TX,Texas,得克萨斯州,Austin,奧斯汀 (德克薩斯州),Houston,"Dec 29, 1845",1845,29145505,31709821,695662,38
+UT,Utah,犹他州,Salt Lake City,盐湖城,Salt Lake City,"Jan 4, 1896",1896,3271616,3538904,219882,4
+VA,Virginia,弗吉尼亚州,Richmond,里士满 (弗吉尼亚州),Virginia Beach,"Jun 25, 1788",1788,8631393,8880107,110787,11
+VT,Vermont,佛蒙特州,Montpelier,蒙彼利埃 (佛蒙特州),Burlington,"Mar 4, 1791",1791,643077,644663,24906,1
+WA,Washington,华盛顿州,Olympia,奧林匹亞 (華盛頓州),Seattle,"Nov 11, 1889",1889,7705281,8001020,184661,10
+WI,Wisconsin,威斯康辛州,Madison,麦迪逊 (威斯康辛州),Milwaukee,"May 29, 1848",1848,5893718,5972787,169635,8
+WV,West Virginia,西維吉尼亞州,Charleston,查尔斯顿 (西弗吉尼亚州),Charleston,"Jun 20, 1863",1863,1793716,1766147,62756,2
+WY,Wyoming,怀俄明州,Cheyenne,夏延 (怀俄明州),Cheyenne,"Jul 10, 1890",1890,576851,588753,253335,1
